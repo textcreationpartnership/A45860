@@ -1,0 +1,1894 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The indictment and arraignment of John Price Esquire, late receiver-general in Ireland with a hundred and one other Protestants, at Wicklow, before John Keating Esq, Chief Justice of the Common pleas a Protestant, and Henry Lynch Knight Baron of the Exchequer, a Papist : collected by a Person that was present and took the same in writing.</title>
+            <author>Person that was present.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 95 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45860</idno>
+            <idno type="STC">Wing I151</idno>
+            <idno type="STC">ESTC R5774</idno>
+            <idno type="EEBO-CITATION">11795126</idno>
+            <idno type="OCLC">ocm 11795126</idno>
+            <idno type="VID">49292</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45860)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49292)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 539:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The indictment and arraignment of John Price Esquire, late receiver-general in Ireland with a hundred and one other Protestants, at Wicklow, before John Keating Esq, Chief Justice of the Common pleas a Protestant, and Henry Lynch Knight Baron of the Exchequer, a Papist : collected by a Person that was present and took the same in writing.</title>
+                  <author>Person that was present.</author>
+               </titleStmt>
+               <extent>36 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Clavel ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Price, John --  Trials, litigation, etc.</term>
+               <term>Southwell, Thomas Southwell, --  Baron, 1664 or 5-1720.</term>
+               <term>Keating, John.</term>
+               <term>Parsons, Laurence.</term>
+               <term>Lynch, Henry, --  Knight Baron of the Exchequer.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49292:1"/>
+            <pb facs="tcp:49292:1"/>
+            <p>THE Indictment and Arraignment OF <hi>John Price Eſquire. <hi>Late Receiver-General in</hi>
+               </hi> Ireland.</p>
+            <p>With a Hundred and one other Proteſtants, at <hi>Wicklow,</hi> before <hi>John Keating</hi> 
+               <abbr>Eſq</abbr> Chief Juſtice of the Common Pleas a Proteſtant, and <hi>Henry Lynch</hi> Knight Baron of the Exchequer, a Papiſt: With variety of Arguments between the Judges and Councel, and the Lord Chief Juſtice <hi>Keatings</hi> Charge to the Jury.</p>
+            <p>
+               <hi>A LETTER ſent to and Read by the</hi> Judges in the Court, for a Loane for the Popiſh Armies Subſiſtance.</p>
+            <p>With an Account of the Seizing and Condem<g ref="char:EOLhyphen"/>nation of Sir <hi>Thomas Southwell,</hi> and Two Hundred o<g ref="char:EOLhyphen"/>ther Proteſtant Gentlemen at <hi>Gallaway.</hi> Sir <hi>Laurence Parſons</hi> and ſeveral others at <hi>Birr</hi> and <hi>Maryborough,</hi> in the King and Queens County in <hi>Ireland,</hi> and the Bar<g ref="char:EOLhyphen"/>barous Execution of ſome of them.</p>
+            <p>
+               <hi>Collected by a Perſon that was preſent, and took the ſame in Writing.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license_to_print">
+                        <p>Licenſed <hi>July</hi> 17 1689.</p>
+                        <closer>
+                           <signed>J Fraſer</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Robert Clavel,</hi> at the <hi>Peacock</hi> in St. <hi>Paul</hi>'s Church-yard. 1689.</p>
+         </div>
+      </front>
+      <body>
+         <div type="arraignment">
+            <pb facs="tcp:49292:2"/>
+            <pb n="3" facs="tcp:49292:2"/>
+            <head>THE Arraignment and Indictment Of <hi>JOHN PRICE</hi> 
+               <abbr>Eſq</abbr> Late Receiver of <hi>IRELAND,</hi> and One hundred other Proteſtants at the Town of <hi>Wicklow</hi> in <hi>Ireland.</hi>
+            </head>
+            <p>
+               <hi>JOhn Price</hi> 
+               <abbr>Eſq</abbr> Receiver General to the late King <hi>Charles</hi> the Second, having his Country-houſe in the County of <hi>Wicklow,</hi> at <hi>Ballinderry,</hi> twenty four miles from <hi>Dublin,</hi> did for the ſafety and preſervation of himſelf and Family, ob<g ref="char:EOLhyphen"/>tain the Lord Deputy <hi>Tyrconnels</hi> Protection, (as many more of the Engliſh Proteſtants living in the Country at the ſame time did) for the late King <hi>James</hi> going away for <hi>France,</hi> and the Adminiſtration of the Government being put into the hands of his preſent Majeſty; the Lord <hi>Tyrconnel</hi> gave out Commiſſions (for the raiſing a mighty Army) to any Iriſh Papiſt that would take one, and promiſe to ſub<g ref="char:EOLhyphen"/>ſiſt, Maintain, and Cloath their Men for three Months; moſt of theſe New Officers are men of mean Fortunes, not capable of ſubſiſting themſelves; their men live altogether on the Engliſh, coming into their Houſes in the day time, and commanding from them their Meat and Drink; and often Robbing them in the night, ſtealing away their Cattle. Likewiſe the Prieſts of every Pariſh obliged all their people to furniſh themſelves with Half pikes and Skeanes, and bring them to Maſs, or not preſume to appear there, on the penal<g ref="char:EOLhyphen"/>ty of Excommunication, or a ſevere puniſhment; which cau<g ref="char:EOLhyphen"/>ſed
+<pb n="4" facs="tcp:49292:3"/>all the <hi>Iriſh</hi> to Arm themſelves with the aforeſaid Wea<g ref="char:EOLhyphen"/>pons; upon which Robberies, Thefts, and other Outrages were daily committed upon the <hi>Engliſh;</hi> particularly in the County of <hi>Wicklow,</hi> where ſome Hundreds were got toge<g ref="char:EOLhyphen"/>ther for that purpoſe, who gave themſelves the Name of <hi>Merry Boys,</hi> and had very great ſucceſs in their thieviſh at<g ref="char:EOLhyphen"/>tempts upon their Proteſtant Neighbours, that lived hitherto ſeeme in their own Houſes; it is obſervable, what great power the Romiſh Clergy have over the <hi>Iriſh,</hi> they arm them<g ref="char:EOLhyphen"/>ſelves immediately at their Command, and yet to this day have neither kept them from Robbing of the <hi>Engliſh,</hi> nor re<g ref="char:EOLhyphen"/>ſtored them any thing taken away, which if they had been ſo minded, they might have done by the ſame power; ſe<g ref="char:EOLhyphen"/>veral of Mr. <hi>Price</hi>'s Neighbours repaired to <hi>Ballinderry,</hi> to preſerve themſelves and Goods; but an order coming out ſoon after, for the taking away all Horſes and Arms from the Proteſtants, both in City and Country; Collonel <hi>Toole</hi> with a Party of his men came to demand what Arms and Horſes they had at <hi>Ballinderry,</hi> Mr. <hi>Ptice</hi> and the reſt having the a<g ref="char:EOLhyphen"/>forementioned Protection, refuſed to obey their orders; and complaint coming to <hi>Dublin,</hi> Collonel <hi>Sheldon</hi> was immedi<g ref="char:EOLhyphen"/>ately ſent away with a Body of Horſe and Foot, againſt <hi>Ba<g ref="char:EOLhyphen"/>linderry;</hi> Mr. <hi>Price</hi> upon his Approach preſently ſubmitted to him, who thereupon was made a Priſoner, and all the reſt of the men that were in the Houſe; but the Priſon of <hi>Wick<g ref="char:EOLhyphen"/>low</hi> not being able to contain them, ſeveral of them were admitted to Bayl, until the following Aſſizes, which began <hi>March</hi> the fifth laſt paſt, and ended the eighth.</p>
+            <list>
+               <head>The Priſoners Names that were Indicted for this Treaſon, are as followeth, <hi>viz.</hi>
+               </head>
+               <item>1 <hi>John Price</hi> 
+                  <abbr>Eſq</abbr>
+               </item>
+               <item>2 <hi>Thomas King</hi> Gent.</item>
+               <item>2 <hi>Richard Weſtland</hi> Gent.</item>
+               <item>4 <hi>William Heatly,</hi> Gent.</item>
+               <item>5 <hi>James Lewis</hi> Gent.</item>
+               <item>6 <hi>Edward Lewis</hi> Gent.</item>
+               <item>7 <hi>John Burroughs</hi> Gent.</item>
+               <item>
+                  <hi>James Bacon,</hi> Gent.</item>
+               <item>8 <hi>Thomas Burrough,</hi> Gent.</item>
+               <item>9 <hi>Thomas Fetherſton</hi> Gent.</item>
+               <item>10 <hi>Joſeph Chrichley</hi> Gent.</item>
+               <item>11 <hi>John Chrichley</hi> Gent.</item>
+               <item>12 <hi>George Chrichley</hi> Gent.</item>
+               <item>13 <hi>Tho. Williams.</hi>
+               </item>
+               <item>14 <hi>James Williams.</hi>
+               </item>
+               <pb n="5" facs="tcp:49292:3"/>
+               <item>15 <hi>J. Clark.</hi>
+               </item>
+               <item>16 <hi>Caleb Chad.</hi>
+               </item>
+               <item>17 <hi>Tho. Bathe.</hi>
+               </item>
+               <item>18 <hi>Joſeph Thompſon.</hi>
+               </item>
+               <item>19 <hi>Tho. Halſon.</hi>
+               </item>
+               <item>20 <hi>Henry Gibſon.</hi>
+               </item>
+               <item>21 <hi>John Cock.</hi>
+               </item>
+               <item>22 <hi>Tho. Peterſon.</hi>
+               </item>
+               <item>23 <hi>John Ward.</hi>
+               </item>
+               <item>24 <hi>William Turner.</hi>
+               </item>
+               <item>25 <hi>Tho. Evans.</hi>
+               </item>
+               <item>26 <hi>George Atkinſon.</hi>
+               </item>
+               <item>27 <hi>William Evans.</hi>
+               </item>
+               <item>28 <hi>Robert Milton.</hi>
+               </item>
+               <item>29 <hi>Will. Neale.</hi>
+               </item>
+               <item>30 <hi>Will. Hill.</hi>
+               </item>
+               <item>31 <hi>George Dixy.</hi>
+               </item>
+               <item>32 <hi>Stephen Robinſon.</hi>
+               </item>
+               <item>33 <hi>Charles Evans.</hi>
+               </item>
+               <item>34 <hi>Stephen Rathborn</hi> Jun.</item>
+               <item>35 <hi>Edward Philips.</hi>
+               </item>
+               <item>36 <hi>John Colſon.</hi>
+               </item>
+               <item>37 <hi>William Wotton.</hi>
+               </item>
+               <item>38 <hi>Henry Delauny.</hi>
+               </item>
+               <item>39 <hi>Tho. Croſs.</hi>
+               </item>
+               <item>40 <hi>John Kempſon.</hi>
+               </item>
+               <item>41 <hi>Tho. Watts.</hi>
+               </item>
+               <item>42 <hi>Edward Acton.</hi>
+               </item>
+               <item>43 <hi>Robert Anthony.</hi>
+               </item>
+               <item>44 <hi>Alexander Hill.</hi>
+               </item>
+               <item>45 <hi>James Hill.</hi>
+               </item>
+               <item>46 <hi>John Hill.</hi>
+               </item>
+               <item>47 <hi>William Savill.</hi>
+               </item>
+               <item>48 <hi>Edward Jones.</hi>
+               </item>
+               <item>49 <hi>Peter Bland.</hi>
+               </item>
+               <item>50 <hi>John Tomlinſon.</hi>
+               </item>
+               <item>51 <hi>Daniel Beyce.</hi>
+               </item>
+               <item>52 <hi>John J<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nes.</hi>
+               </item>
+               <item>53 <hi>Tho. Howard.</hi>
+               </item>
+               <item>54 <hi>Charles Fryers.</hi>
+               </item>
+               <item>55 <hi>Andrew Wills.</hi>
+               </item>
+               <item>56 <hi>Mich. Wills.</hi>
+               </item>
+               <item>57 <hi>Samuel Allen.</hi>
+               </item>
+               <item>58 <hi>Triſtrum Tineſly.</hi>
+               </item>
+               <item>59 <hi>Robert Aſhton.</hi>
+               </item>
+               <item>60 <hi>Henry Tuton.</hi>
+               </item>
+               <item>61 <hi>Ralph Kidd.</hi>
+               </item>
+               <item>62 <hi>William Fulham.</hi>
+               </item>
+               <item>63 <hi>William Erwin.</hi>
+               </item>
+               <item>64 <hi>Agabus Kidd.</hi>
+               </item>
+               <item>65 <hi>Tho. Page.</hi>
+               </item>
+               <item>66 <hi>Tho. Allen.</hi>
+               </item>
+               <item>67 <hi>Rice Bibbin.</hi>
+               </item>
+               <item>68 <hi>Nicholas Scot.</hi>
+               </item>
+               <item>69 <hi>Arnold Sutton.</hi>
+               </item>
+               <item>70 <hi>Alexander Rathborne.</hi>
+               </item>
+               <item>71 <hi>William Holſon.</hi>
+               </item>
+               <item>72 <hi>Iſaac Colliſon.</hi>
+               </item>
+               <item>73 <hi>Jacob Colliſon.</hi>
+               </item>
+               <item>74 <hi>William Edwards.</hi>
+               </item>
+               <item>75 <hi>Peter Barton.</hi>
+               </item>
+               <item>76 <hi>John James.</hi>
+               </item>
+               <item>77 <hi>John Jordan.</hi>
+               </item>
+               <item>78 <hi>Randle Burroughs.</hi>
+               </item>
+               <item>79 <hi>Richard Price.</hi>
+               </item>
+               <item>80 <hi>Agabas Bardin.</hi>
+               </item>
+               <item>81 <hi>Henry Moody.</hi>
+               </item>
+               <item>82 <hi>John Burroughs.</hi>
+               </item>
+               <item>83 <hi>Edward Hughs.</hi>
+               </item>
+               <item>84 <hi>Edward Jemſon.</hi>
+               </item>
+               <item>85 <hi>James Uton.</hi>
+               </item>
+               <item>86 <hi>William Ryder.</hi>
+               </item>
+               <item>87 <hi>Luke Young.</hi>
+               </item>
+               <item>88 <hi>William Shorter.</hi>
+               </item>
+               <item>89 <hi>John Goodwin.</hi>
+               </item>
+               <item>90 <hi>James Tench.</hi>
+               </item>
+               <item>91 <hi>Thomas Manning.</hi>
+               </item>
+               <item>92 <hi>Edward Bowers.</hi>
+               </item>
+               <pb n="6" facs="tcp:49292:4"/>
+               <item>93 <hi>Thomas Adams.</hi>
+               </item>
+               <item>94 <hi>Robert Dunbar.</hi>
+               </item>
+               <item>95 <hi>Thomas Colſton.</hi>
+               </item>
+               <item>96 <hi>John Bromwell.</hi>
+               </item>
+               <item>97 <hi>Samuel Price.</hi>
+               </item>
+               <item>98 <hi>James Tipping.</hi>
+               </item>
+               <item>99 <hi>Edward Graham.</hi>
+               </item>
+               <item>100 <hi>Chriſtopher Cooper.</hi>
+               </item>
+               <item>101 <hi>William Phillips.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Grand-Jurors Names. <hi>Papiſts marked †.</hi>
+               </head>
+               <item>† <hi>CHriſtopher Wickham.</hi>
+               </item>
+               <item>
+                  <hi>William Hoy.</hi>
+               </item>
+               <item>
+                  <hi>Cromwell Wingfield.</hi>
+               </item>
+               <item>† <hi>William Wolverſton.</hi>
+               </item>
+               <item>† <hi>Redmond Birne.</hi>
+               </item>
+               <item>† <hi>Tho. Birne.</hi>
+               </item>
+               <item>† <hi>William Birne.</hi>
+               </item>
+               <item>† <hi>Peirce Cromwell.</hi>
+               </item>
+               <item>† <hi>Toby Walſh.</hi>
+               </item>
+               <item>† <hi>Toby Tooll.</hi>
+               </item>
+               <item>
+                  <hi>Edward Burly.</hi>
+               </item>
+               <item>
+                  <hi>Leonard Froſt.</hi>
+               </item>
+               <item>
+                  <hi>Peter Ayris.</hi>
+               </item>
+               <item>
+                  <hi>William Baker.</hi>
+               </item>
+               <item>† <hi>Lawrence Tooll.</hi>
+               </item>
+               <item>
+                  <hi>Richard Lamb.</hi>
+               </item>
+               <item>† <hi>Daniel Birne.</hi>
+               </item>
+            </list>
+            <div type="charge">
+               <head>After they were Sworn as uſual, they received the fol<g ref="char:EOLhyphen"/>lowing Charge:</head>
+               <head type="sub">L. Ch. Juſt. <hi>Keating</hi>'s Charge to the Grand-Jury.</head>
+               <p>GEntlemen, You that are here Returned to Serve on this Grand-Jury, you have this day before your Eyes the greateſt Example, and the firmeſt Proof that a Gracious Prince can give to the beſt of Subjects; you ſee his Sacred Majeſty, King <hi>James</hi> the Second, (whom God long pre<g ref="char:EOLhyphen"/>ſerve for the Protection of all his good and dutiful Subjects, and for the ſubverſion and irradicating of all thoſe who de<g ref="char:EOLhyphen"/>ſire the Subverſion of his Government, either by Foreign Force, or inbred Conſpiracy) notwithſtanding the great Troubles on his own Perſon, yet he is not wanting in his care towards you; and I dare boldly ſay, it is the laſt thing he will relinquiſh in the World, after that of his own Con<g ref="char:EOLhyphen"/>ſcience, the care of his Subjects: He hath ſent us with his Commiſſion to enquire into all the Maladies, Diſeaſes, and Sores within your County. He has likewiſe given us Com<g ref="char:EOLhyphen"/>mand
+<pb n="7" facs="tcp:49292:4"/>to apply the healing Balſam of the Laws, which will preſerve the Subject moſt entirely in his Property. And I am ſorry, I muſt tell you, that there was never more need then now at this time: I am glad at the ſame time that I can ſay, that the Miſchiefs fallen on a great part of this King<g ref="char:EOLhyphen"/>dom, and on no part more than on this County, that is un<g ref="char:EOLhyphen"/>der the very Eye of the Government; I ſay, I am glad it can be ſaid to have ariſen, for the moſt part, from a Rabble of People, who have arm'd themſelves without any direction from the Government, and that with unuſual Weapons; I mean Half-pikes and Skeans: Gentlemen, I muſt tell you plainly, it looks rather like a Deſign to Maſſacree and Mur<g ref="char:EOLhyphen"/>der, than any thing elſe. They do not belong to the Ar<g ref="char:EOLhyphen"/>my, neither are they any part of them; but theſe are the Vultures, Kites, and Ravens that follow Armies. Souldiers that have travell'd abroad, ſay, Such are not known among them there: I am told, and very well aſſured, That in Forreign Parts, where theſe Vultures and Birds of Prey are, it is hard for an Army to lie conceal'd, without being diſco<g ref="char:EOLhyphen"/>vered by them; for it is odds, but that a Horſe or a Man drops where ſuch multitudes of People are. I am very far from laying this to the Charge of any that are under Com<g ref="char:EOLhyphen"/>mand; tho' it is poſſible, that ſome of them, under the ſcar<g ref="char:EOLhyphen"/>city they are in, do give their aſſiſtance, or at leaſt encourage<g ref="char:EOLhyphen"/>ment to theſe Robbers; otherwiſe it could not be, that whole Flocks and Droves of Cattle are daily driven away, and yet no one taken or brought to Juſtice for it. The King is not wanting in his Care, he has given Directions to have the Laws put in execution, that Criminals may be brought in and puniſhed; and the Government has iſſued out many Proclamations; but they are grown too familiar with them. You are to enquire into this Matter, in order to bring to pu<g ref="char:EOLhyphen"/>niſhment, not only them that ſteal, but thoſe that receive. I am told that open Markets are ſet up in this County of <hi>Wicklow:</hi> A fat Bullock for 5 <abbr>
+                     <hi>s.</hi>
+                  </abbr> and a fat Sheep for 1 <abbr>
+                     <hi>s.</hi>
+                  </abbr> but it will fall heavy on them at laſt. Divines ſay, That God Almighty oftentimes makes the very Crime to become their own puniſhment: And I verily fear, that a few Months will produce a Famine in this Kingdom: And what ſucceeds, a
+<pb n="8" facs="tcp:49292:5"/>Peſtilence, and the worſt of all Peſtilences; for it is obſerved, that a ſtarved Rot is the worſt of all Rots; it falls out un<g ref="char:EOLhyphen"/>happily at this Seaſon of the Year, when the Cattle are breed<g ref="char:EOLhyphen"/>ing: Under the Old Law the <hi>Jews</hi> were not to ſeeth the Kid in the Mother's Milk; but theſe unmerciful Wretches go further than that, ſparing none, but deſtroying old and young, the encreaſe and all. Pray, Gentlemen, conſider of it, and ſearch the Houſes of ſuch as you have reaſon to ſuſpect, that had not any thing to eat the laſt Year, go now into their Houſes, and you will find whole Carcaſes of. Beef powdered up; nay, it may be, for want of Salt, or Money to buy it, lying rotting and ſtinking. Let me tell you, it will be your turn next, when they have robbed and ſpoiled your Proteſtant Neighbours, they will come to you, unleſs you take ſpeedy care to prevent it. The King has done w<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at he can, and the Government what they can; in vain is the Law made, if Offenders be not brought to condign puniſhment. You all know there has been an Invaſion in <hi>England</hi> of a Forreign Enemy, the <hi>Prince of Orange;</hi> and the ſame is deſigned on this Kingdom: The eſtects of an Inva<g ref="char:EOLhyphen"/>ſion is not known: Defence is natural to all Kingdoms and States, and therefore the Government has given Directions for raiſing a greater Army, than at any time heretofore this Kingdom ever had: It was ſo among the <hi>Romans</hi> of old, who in caſes of neceſſity did things clear contrary to the Fundamentals of their Laws. The ſame neceſſity has put the King on arming here; (in <hi>France</hi> they have their Ban, and with us our Commiſſion of Array, from ſixteen to ſix<g ref="char:EOLhyphen"/>ty) but without any deſign that the effects ſhould be to arm the Country with Half-pikes and Skeans; they are fit indeed for the Mountains, or to guard a Man's Houſe, but not to go abroad with at Noon-day. Gentlemen, you that are Ju<g ref="char:EOLhyphen"/>ſtices of the Peace, and Officers of the Army, where ever you meet, you ought to ſecure them, and bind them over, and know by what Authority they dare go abroad with ſuch Weapons. I need not ſay any thing to you in Defence of the King, for it is really and truly your own Defence; and therefore I ſhall proceed into the Heads which are prepared for your Enquiry at this time: Our buſineſs here is like to
+<pb n="9" facs="tcp:49292:5"/>be very great, and our time ſhort, and therefore I ſhall not trouble you with ſmall things, we have greater matters than Aſſaults and Batteries. We have Deſolations and Ruines to ſhew you and ſet before you, and without your care we are like to fall into the Gulph of Miſery and Deſtruction. The firſt thing we have to ſpeak of, is High Treaſon, we have no Petty Treaſon in <hi>Ireland.</hi> If any ſhall go about to Conſpire the Death of the King, Queen, or the Heir Apparent, the Prince of <hi>Wales,</hi> this is High Treaſon at all times, it was ſo at Common Law, you muſt look to this betimes, for if a blow be once ſtruck here, there can be no retrieving of it. If any one ſhall go about to Seize the Kings Perſon, or Impriſon him, this Gentlemen is Treaſon, there is but few ſteps be<g ref="char:EOLhyphen"/>tweeen the Priſons and Graves of Kings; and by all the ob<g ref="char:EOLhyphen"/>ſervation that I can make out of the Engliſh or Scotch, or Iriſh Hiſtories, where we have had ſwarms of Murdered Kings, that if once they went into Priſon, they ſeldom ever eſcaped with Life. Our King has more reaſon than any to dread this, his Father who now is a Glorious Martyr in Hea<g ref="char:EOLhyphen"/>ven loſt his life, and the King himſelf ever ſince his Eſcape with Colonel <hi>Bamfield</hi> from St. <hi>James</hi>'s, has had ſo many mira<g ref="char:EOLhyphen"/>culous Deliverances both by Sea and Land, that we may conclude he is preſerved for ſome mighty matter, or elſe Pro<g ref="char:EOLhyphen"/>vidence had not done ſuch great things for him; and 'tis but of late that he himſelf is eſcaped out of Priſon. I am told by Authority, and am ordered to tell you, that he is ex<g ref="char:EOLhyphen"/>pected in this Kingdom very ſuddenly, as a Place of Refuge. He is the firſt King I think, ſince <hi>Henry</hi> the Second, except <hi>Richard</hi> that has been in this Kingdom. It is a great misfor<g ref="char:EOLhyphen"/>tune that he ſhould be forced to it, but we may look upon it as a great bleſſing, that he ſhould think himſelf ſafe here, when he cannot be ſo elſewhere.</p>
+               <p>To Seize any of the Kings Forts or Ships of War, for theſe are the Bulwarks to defend him againſt his Enemies, this Gen<g ref="char:EOLhyphen"/>tlemen is Treaſon.</p>
+               <p>To hold Correſpondence with any of the Kings Enemies, or with Rebels in actual Rebellion, or to joyn with them, this is Treaſon; you are not to enquire into the puniſhment, but to open a door for the Petty Jury to enquire into the
+<pb n="10" facs="tcp:49292:6"/>matter of Fact, and what the Law is, ſhall by the bleſſing of God be our buſineſs.</p>
+               <p>To Counterfeit the Kings Coyn, or Clip it, and you have very little of it at this time, therefore you had need be care<g ref="char:EOLhyphen"/>ful in a more eſpecial manner, this likewiſe is Treaſon.</p>
+               <p>It is likewiſe Treaſon to counterfeit the Great Seal of the King, for 'tis the common Security, by which many hold their Eſtates, and ſome their Lives.</p>
+               <p>The killing of the Chancellor or any of the Judges or Ju<g ref="char:EOLhyphen"/>ſtices of <hi>Oyer</hi> and <hi>Terminer</hi> in the doing of their Duty, this likewiſe is Treaſon, not ſo much with regard to their per<g ref="char:EOLhyphen"/>ſons, as to the work that they are about, they repreſenting the Kings Perſon. The meaneſt Conſtable there, if he has his Staff in his hand, and doing his duty, he that kills him ſhall dye the ſame death, as he that kills the beſt man that wears Scarlet on the Bench. Gentlemen, I muſt tell you another C<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ime, and it looks like a mark of Infamy on this Kingdom. Murder in <hi>England</hi> is but Felony, but it has been thought fit to make it Treaſon here, and they that go out on Burning and Robbing Houſes, they ſhall be Indicted for Treaſon. And Clerk of the Crown, if any ſuch be here, now take notice I will have them Indicted for Treaſon.</p>
+               <p>The next thing for your Enquiry is Felony, that concern<g ref="char:EOLhyphen"/>ing the Life of the Subject; for a man to kill his fellow Sub<g ref="char:EOLhyphen"/>ject, this is Felony, if he does it on a ſudden paſſion and heat, a man may kill another in his own defence; for 'tis natural for a man to kill rather than be killed, and therefore he ſhall have his Pardon of courſe. But Gentlemen, this is not in favour of Duels, and only where there is a great provocation, there is not a man but has ſome paſſion about him, but for a man to go to bed with Malice, and ariſe the next morning and go meet his fellow Subject and kill him, this is Murder and Treaſon in <hi>Ireland.</hi>
+               </p>
+               <p>The next thing that is Felony, is concerning the Goods of the Subject, for an honeſt Labouring Man, that by the indu<g ref="char:EOLhyphen"/>ſtry of his whole Life has gotten a fair ſtock for the mainte<g ref="char:EOLhyphen"/>nance of himſelf, his Wife and Children, at night goes to bed, and next morning when he ariſes, he is a beggar and wants Bread. Gentlemen, it would make every honeſt mans
+<pb n="11" facs="tcp:49292:6"/>heart bleed to hear what I have heard ſince I came into this County, it is ill in other parts of the Countrey, but here they ſpare not even the wearing Clothes and Habit of Women and Children, that they are forced to come abroad naked, without any thing to cover their nakedneſs; ſo that beſides the Oath you have taken, and the obligation of Chriſtianity that lies upon you as you are Chriſtians, I conjure you by all that is Sacred, and as ever you expect Eternal Salvation, that you make diligent Enquiry, let it never be ſaid by any of you, that it was your Neighbour, or your Neighbours Ser<g ref="char:EOLhyphen"/>vant did it, and you are ſorry for it, but will not trouble your ſelves, I tell you it is every mans buſineſs, and I beſeech you look into it.</p>
+               <p>To break into any mans Houſe after night fall is Felony, it is a ſound ſleep that the Labouring man takes, but the idle Rogue that lies lurking &amp; ſleeping all the day, at night he ariſes and ſeeks whom he may devour. If you were to do the moſt Charitable Work, as building of a Bridge or Chappel, or mending a High-way, how many do you think of theſe men with half Pikes and Skeines would come to your aſſiſtance, not one of them He engage. But if a Houſe or Town be to be Plundered, they all run thither. All Riots and Routs are to be enquired into, numbers of People may meet for their own defence, if they ſhould hear or ſee the Countrey Robbing and Spoiling. By a riotous Multitude coming to Burn and Rob their Houſes, in this caſe they may meet and deſend their Goods, and apprehend the Robbers, in order to bring them to Juſtice; but after all this, they are not to con<g ref="char:EOLhyphen"/>teſt with the Government, nor do any thing to the prejudice of that; I told you, I would not trouble you with unneceſſa<g ref="char:EOLhyphen"/>ry matters, all are loſt in the greateſt of Crimes and Outra<g ref="char:EOLhyphen"/>ges that are committed daily in the Countrey round about.</p>
+               <p>If I ſhould go through all the Heads of this Charge, it would take up more time than we have to ſpend here, and therefore I ſhall ſhut up all and ſay no more than this, that e<g ref="char:EOLhyphen"/>very man do apply himſelf to his Husbandry and Tillage, to prevent that imminent danger of an approaching Famine, that ſeems to be coming upon us, and that you make it your buſineſs to ſearch after, and bring to Judgment thoſe Rob<g ref="char:EOLhyphen"/>bers
+<pb n="12" facs="tcp:49292:7"/>that live on the Mountains, and while you continue to do your duty, you ſhall have all the Protection the Govern<g ref="char:EOLhyphen"/>ment can give you. So upon complaint of any Juſtice of the Peace, that ſhall be backward or unwilling to appear a<g ref="char:EOLhyphen"/>gainſt them, care ſhall be taken to puniſh ſuch and make them Examples. Go together Gentlemen, and conſider of theſe things.</p>
+               <stage>The Priſoners brought into Court.</stage>
+               <sp>
+                  <speaker>Clerk of the Crown.</speaker>
+                  <p>Set <hi>John Price</hi> to the Bar, <hi>Tho. King</hi> to the Bar, <hi>W. Lewis, James Beacon, William Heatly, Tho. Bur<g ref="char:EOLhyphen"/>roughs</hi> to the Bar, <hi>&amp;c.</hi>
+                  </p>
+                  <p>Hold up your Right Hands.</p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <hi>Cl. John Price, Tho. King,</hi> &amp;c.</speaker>
+                  <p>You ſtand here Indicted for that you on the 25th day of <hi>February,</hi> in the 5th Year of the Reign of our Soveraign Lord King <hi>James</hi> the Second, at <hi>Ballindery</hi> in the County of <hi>Wicklow,</hi> with divers others wicked Traytors and Rebels, in a warlike manner, then and there did aſſemble your ſelves, and a cruel and open War and Rebellion againſt our Soveraign Lord the King, and his faithful Subjects of this His Majeſties Kingdom of <hi>Ireland,</hi> did Raiſe and Levy, and did intend our Soveraign Lord the King to Death and Deſtruction, to bring, and to Depoſe him from his Kingly Authority and Government of this his Kingdom of <hi>Ireland,</hi> and to fulfil and accompliſh this your ſaid traite<g ref="char:EOLhyphen"/>rous Intentions and Deſigns, you the ſaid Perſons, with o<g ref="char:EOLhyphen"/>thers the ſaid wicked Traytors and Rebels, the Day, Year, and Place aforeſaid, did arm your ſelves with divers Warlike Weapons, as well offenſive as defenſive; and did move and excite divers others the Subjects of our Soveraign Lord the King, to joyn themſelves wickedly and traiterouſly, againſt the Peace of our Soveraign Lord the King, and the Duty of your Allegiance, and the Statute in that Caſe made and provided, <hi>&amp;c.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Cl.</speaker>
+                  <p>How ſayſt thou <hi>John Price,</hi> art thou guilty of the Trea<g ref="char:EOLhyphen"/>ſon that thou ſtandeſt here Indicted, <hi>&amp;c.</hi> or Not Guilty?</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Price.</hi>
+                  </speaker>
+                  <p>Not Guilty.</p>
+               </sp>
+               <sp>
+                  <speaker>Cl. Culprit.</speaker>
+                  <p>How wilt thou be Tryed?</p>
+               </sp>
+               <sp>
+                  <speaker>Priſoner.</speaker>
+                  <p>By God and the Country.</p>
+               </sp>
+               <sp>
+                  <speaker>Cl.</speaker>
+                  <p>God ſend you a good deliverance.</p>
+               </sp>
+               <pb n="13" facs="tcp:49292:7"/>
+               <stage>Note. <hi>The Priſoners were brought into Court in ſeveral parties, to be Arraigned, as many as the Dock would hold at one time. The ſecond time the Dock was filled.</hi>
+               </stage>
+               <sp>
+                  <speaker>Cl. Cr.</speaker>
+                  <p>Set <hi>Will. Fulham</hi> to the Barr, <hi>&amp;c.</hi>
+                  </p>
+                  <p>Thady Birne, <hi>the High-Sheriff, ſtood up and ſaid,</hi> My Lord, <hi>Fulham</hi> was cleared.</p>
+               </sp>
+               <sp>
+                  <speaker>Bar. Lynch.</speaker>
+                  <p>Pray, Sir, who cleared him?</p>
+               </sp>
+               <sp>
+                  <speaker>High-Sheriff.</speaker>
+                  <p>The Chief Commiſſion'd Officer that was here, Coll. <hi>Sheldon</hi> did acquit him.</p>
+               </sp>
+               <sp>
+                  <speaker>Lynch.</speaker>
+                  <p>He acquit him, how could that be? If there be nothing againſt him, we ſhall acquit him.</p>
+               </sp>
+               <sp>
+                  <speaker>J. Keating.</speaker>
+                  <p>Clerk of the Crown, Is he Indicted?</p>
+               </sp>
+               <sp>
+                  <speaker>Cl.</speaker>
+                  <p>Yes, My Lord, a Bill of Indictment is found againſt him.</p>
+                  <p>Pendergraſs <hi>the Sub-Sheriff.</hi> My Lord, I will tell you, Mr. Sheriff is miſtaken; there was ſome Boys diſcharg'd, and he thinks <hi>Fulham</hi> is one of thoſe Boys.</p>
+               </sp>
+               <sp>
+                  <speaker>Lynch.</speaker>
+                  <p>Sir, you do well to reflect on your Imployer.</p>
+                  <p>
+                     <hi>High-Sheriff to the Sub-Sheriff.</hi> You have done this to get Money for your ſelf: My Lord, <hi>Fulham</hi> was not concern'd at all, and therefore was diſcharg'd.</p>
+                  <p>
+                     <hi>Priſoner</hi> Lewis. My Lord, we are ſo crouded with a File of Muſqueteers and a Searjant, that they take up our Chairs, that we cannot ſit down; and they come with their lighted Matches to our very Noſes, and laſt Night a Piece went off in the Room among us, we have not the conveniency of quiet Repoſe, nor our Friends the liberty of ſeeing us. My Lord, we were not born Lawyers, and therefore deſire we may have our Friends come to us, and Counſel to adviſe with.</p>
+                  <p>
+                     <hi>This</hi> Lewis <hi>and Lord</hi> Galmoy <hi>are Brother and Siſters Chil<g ref="char:EOLhyphen"/>dren, and was offer'd a Troop if he would turn Papist.</hi>
+                  </p>
+                  <p>J. <hi>Keating.</hi> Mr. <hi>Lewis,</hi> you have been bred to the Law; but you ſhall have Council allowed you; And you, Mr. Sheriff, you are not to keep them with Fire-Arms, nor with Souldiers. I ſaw a Centry at this Door yeſterday, and for<g ref="char:EOLhyphen"/>bad it — I remember that when <hi>Warren, Jephſon,</hi> and <hi>Thomp<g ref="char:EOLhyphen"/>ſon</hi> were Tryed in 1663. for a Deſign to ſurprize <hi>Dublin</hi>-Caſtle, becauſe this was a great matter, forſooth, they muſt
+<pb n="14" facs="tcp:49292:8"/>be Guarded with Souldiers — (They were Tryed at the King's Bench; and ſeveral Perſons, deſirous to ſee or hear, being gotten up into the Arch in the Wall next the Court of Common-Pleas,) as they were going up ſtairs, a Piece went off, and ſhot a Man through the Head. I tell you, Mr. Sheriff, that Brown Bill is your Guard (pointing at one in Court) the Law knows nothing of Fire-Arms; (ſpeak<g ref="char:EOLhyphen"/>ing to the Priſoners) Gentlemen, I muſt tell you plainly, that I received Directions from my Lord Deputy (by the Attorney-General) that you ſhould have all the Juſtice ima<g ref="char:EOLhyphen"/>ginable.</p>
+               </sp>
+               <sp>
+                  <speaker>Bar. Lynch.</speaker>
+                  <p>Mr. Sheriff, you muſt Command thoſe Soul<g ref="char:EOLhyphen"/>diers to be civil, they are your Guards when you employ them.</p>
+                  <stage>Seventy Priſoners were Arraign'd and return'd back to Pri<g ref="char:EOLhyphen"/>ſon; <hi>31</hi> more that were Indicted, and upon Bail, did not appear.</stage>
+                  <p>Next day—Thurſday <hi>March</hi> 7th. they were again brought to Court to their Tryal; and the Jury was Impannell'd, whoſe Names were as followeth, Papiſts marked thus † <hi>Viz.</hi>
+                     <list>
+                        <item>† <hi>Thomas Cowdell.</hi>
+                        </item>
+                        <item>
+                           <hi>Phillip Cradock.</hi>
+                        </item>
+                        <item>
+                           <hi>John Pew.</hi>
+                        </item>
+                        <item>† <hi>Alexander Higden.</hi>
+                        </item>
+                        <item>† <hi>Chriſtopher Talbot.</hi>
+                        </item>
+                        <item>† <hi>Garret Birne.</hi>
+                        </item>
+                        <item>† <hi>Dudley Keogh.</hi>
+                        </item>
+                        <item>† <hi>John Keogh.</hi>
+                        </item>
+                        <item>† <hi>David Toole.</hi>
+                        </item>
+                        <item>† <hi>James White.</hi>
+                        </item>
+                        <item>† <hi>Darby Toole.</hi>
+                        </item>
+                        <item>† <hi>Garret Harold.</hi>
+                        </item>
+                        <item>† <hi>Daniel Birne.</hi>
+                        </item>
+                        <item>† <hi>Patrick Mac Donnel.</hi>
+                        </item>
+                        <item>† <hi>Patrick O Donnelly.</hi>
+                        </item>
+                        <item>† <hi>Chriſtopher Birne.</hi>
+                        </item>
+                        <item>
+                           <hi>Daniel Powel.</hi>
+                        </item>
+                        <item>† <hi>Richard Jonſton.</hi>
+                        </item>
+                        <item>† <hi>Theophilus Higgens.</hi>
+                        </item>
+                        <item>† <hi>Nicholas Wall.</hi>
+                        </item>
+                        <item>† <hi>Charles Tool.</hi>
+                        </item>
+                        <item>† <hi>Anthony Archer.</hi>
+                        </item>
+                        <item>† <hi>Charles Birne.</hi>
+                        </item>
+                        <item>† <hi>Cornelius Kenan.</hi>
+                        </item>
+                        <item>
+                           <hi>Tho. Elliot.</hi>
+                        </item>
+                        <item>
+                           <hi>Richard Baker.</hi>
+                        </item>
+                        <item>† <hi>Thady Birne.</hi>
+                        </item>
+                        <item>† <hi>Francis Tute.</hi>
+                        </item>
+                        <item>† <hi>James Moore.</hi>
+                        </item>
+                        <item>† <hi>Hugh Birne.</hi>
+                        </item>
+                        <item>† <hi>Bryan O Neal.</hi>
+                        </item>
+                        <item>† <hi>Dennis Cullen.</hi>
+                        </item>
+                     </list>
+                  </p>
+                  <p>Jaylor, ſet the Priſoners to the Barr.</p>
+               </sp>
+               <sp>
+                  <speaker>Cl. Cr.</speaker>
+                  <p>You good Men that are to Try the ſeveral Iſſues between the King and <hi>John Price,</hi> &amp;c. and other Priſoners at
+<pb n="15" facs="tcp:49292:8"/>the Barr, that ſhall be given you in Charge, &amp;c. Jury, look at the Priſoners; Priſoners, look at the Jury, <hi>&amp;c.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Cl. Cr.</speaker>
+                  <p>
+                     <hi>Thomas Cowdell,</hi> to the Book.</p>
+               </sp>
+               <sp>
+                  <speaker>Priſoner Lewis.</speaker>
+                  <p>I Challenge him.</p>
+               </sp>
+               <sp>
+                  <speaker>Cl.</speaker>
+                  <p>What is your Cauſe of Challenge?</p>
+               </sp>
+               <sp>
+                  <speaker>Lewis.</speaker>
+                  <p>I Challenge him peremptorily.</p>
+               </sp>
+               <sp>
+                  <speaker>Deputy K's.</speaker>
+                  <p>
+                     <hi>Council,</hi> Fitz-Patrick. My Lord, before they begin their Challenges, let us know whether they will all a<g ref="char:EOLhyphen"/>gree in their Challenges; otherwiſe we muſt be forc'd to Try them ſeverally.</p>
+                  <stage>It was at length agreed, That if any one made a peremptory Challenge, the other Priſoners were to be ſatisfied with it.</stage>
+               </sp>
+               <sp>
+                  <speaker>Coll.</speaker>
+                  <p>Tool <hi>en the Bench, ſpeaking to L. Chief Juſt.</hi> Keating, My Lord, Mr. <hi>Lewis</hi> has been Sub-Sheriff of the County, and knows all that have Freeholds.</p>
+               </sp>
+               <sp>
+                  <speaker>J. Keating.</speaker>
+                  <p>It is the better for himſelf that he does know them.</p>
+                  <p>
+                     <hi>Priſoner</hi> Lewis, <hi>continued to Challenge, until they had gone through the Pannel, and only two Gentlemen that were Proteſtants, Mr.</hi> Cradock, <hi>and Mr.</hi> Pew, <hi>were Sworn.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Cl. Cr.</speaker>
+                  <p>Mr. Sheriff, a New Pannel. —The Sheriff gave in another of Eleven in number, which were all like<g ref="char:EOLhyphen"/>wiſe challeng'd by Mr. <hi>Lewis.</hi>—Whilſt both the High and Sub Sheriff were looking about the Court, for to make up a third Pannel. Says</p>
+               </sp>
+               <sp>
+                  <speaker>L. J.</speaker>
+                  <p>Keating. Mr. Sheriff, How many Freeholders have you on the Grand Jury?</p>
+               </sp>
+               <sp>
+                  <speaker>Sheriff.</speaker>
+                  <p>Six, or Seven, My Lord.</p>
+               </sp>
+               <sp>
+                  <speaker>J. Keating.</speaker>
+                  <p>You have been ſparing enough of your Free<g ref="char:EOLhyphen"/>holders. The Law requires that all the Grand Jury ſhould be Freeholders, and have you but ſix?</p>
+               </sp>
+               <sp>
+                  <speaker>Sheriff.</speaker>
+                  <p>—There is but very few Freeholders in the County, My Lord.</p>
+               </sp>
+               <sp>
+                  <speaker>C. Fitz Patrick.</speaker>
+                  <p>—In Caſes of neceſſity, My Lord.</p>
+               </sp>
+               <sp>
+                  <speaker>J. Keating.</speaker>
+                  <p>You know the Law is ſo.</p>
+               </sp>
+               <sp>
+                  <speaker>C. Fitz-Patrick.</speaker>
+                  <p>Yes, there is a Stature for it.</p>
+               </sp>
+               <sp>
+                  <speaker>J. Keating.</speaker>
+                  <p>—The Priſoner for his Life may challenge Twenty peremptorily, without ſhewing cauſe; and the whole World for want of Freehold. — And ſhall I put ſuch
+<pb n="16" facs="tcp:49292:9"/>a one on for his Life? Sir, I will not be hang'd for any Body.</p>
+               </sp>
+               <sp>
+                  <speaker>Fitz-Patrick.</speaker>
+                  <p>Was ever a Judge hang'd?</p>
+                  <p>
+                     <hi>Mr.</hi> Handcock, <hi>Councel for the Priſoners.</hi> Yes, above twen<g ref="char:EOLhyphen"/>ty in a few Years.</p>
+               </sp>
+               <sp>
+                  <speaker>J. Keating.</speaker>
+                  <p>Mr. <hi>Fitz-Patrick,</hi> I will not be hanged with Juſtice <hi>Belknap,</hi> nor <hi>Treſſilian</hi> neither.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Handcock. My Lord, they were hang'd at <hi>Tyburn.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>J. Keating.</speaker>
+                  <p>I think they were.—The greateſt part of this County is in the hands of two or —three Men, my Lord <hi>Strafford</hi> and <hi>Roſs.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>J. Keating.</speaker>
+                  <p>Who is here that is concern'd for my Lord <hi>Strafford,</hi> and my Lord <hi>Roſs.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Court.</speaker>
+                  <p>Here is Dr. <hi>Hall</hi> on the Bench, for the Lord <hi>Straf<g ref="char:EOLhyphen"/>ford,</hi> and the Sheriff is concerned for my Lord <hi>Roſs.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>J. Keating.</speaker>
+                  <p>Dr. <hi>Hall,</hi> and you Mr. Sheriff, let me tell you, I do not know but that their Lordſhips have forfeited their Eſtates, for this day's work.—In the Act for Plan<g ref="char:EOLhyphen"/>tation, there was proviſion made for Freeholds, and there were enough before the Wars. I fear theſe great Lords have ſwallowed up the Freeholds their Anceſtors made. I only tell you this.</p>
+                  <stage>The Sheriff by this time had drawn up a third Pannel, being eight in number,</stage>
+               </sp>
+               <sp>
+                  <speaker>J. Keating.</speaker>
+                  <p>Mr. Sheriff, have you all your Freeholders here.</p>
+               </sp>
+               <sp>
+                  <speaker>Sheriff.</speaker>
+                  <p>My Lord, we ſummoned all here.</p>
+               </sp>
+               <sp>
+                  <speaker>J. <hi>Keating.</hi>
+                  </speaker>
+                  <p>On the firſt Pannel you might have Return'd forty, becauſe you do not know how far Peremptory Chal<g ref="char:EOLhyphen"/>lenges will run; and you are obliged after to Return a fewer Number when you enlarge your Pannel, but you can never enlarge it farther than it was at firſt.</p>
+               </sp>
+               <sp>
+                  <speaker>Cl. Cr.</speaker>
+                  <p>
+                     <hi>Birne,</hi> to the Book.</p>
+               </sp>
+               <sp>
+                  <speaker>Priſ. Lewis.</speaker>
+                  <p>I Challenge him for want of Freehold.</p>
+               </sp>
+               <sp>
+                  <speaker>J. <hi>Keating.</hi>
+                  </speaker>
+                  <p>Mr. <hi>Birne,</hi> have you a Freehold in this County?</p>
+               </sp>
+               <sp>
+                  <speaker>Birne.</speaker>
+                  <p>My Lord, I have a Leaſe of Lives.</p>
+               </sp>
+               <sp>
+                  <speaker>Priſ. Weſtland.</speaker>
+                  <p>I Challenge him peremptorily.</p>
+               </sp>
+               <sp>
+                  <speaker>Bar. Lynch.</speaker>
+                  <p>What, Sir, do you begin to Challenge? This ſhall not be allowed you, to Challenge one upon another.</p>
+               </sp>
+               <sp>
+                  <speaker>C. Hancock.</speaker>
+                  <p>My Lord, you are Council for the Priſoners.</p>
+               </sp>
+               <pb n="17" facs="tcp:49292:9"/>
+               <sp>
+                  <speaker>Lynch.</speaker>
+                  <p>Sir, you are not to tell me my Duty; I will have you to know, Sir, I ſhall give an Account for my ſelf. I am Judge for the King too, as well as Council for the Priſo<g ref="char:EOLhyphen"/>ners; and I am concern'd for the King.</p>
+               </sp>
+               <sp>
+                  <speaker>J. <hi>Keating</hi>
+                  </speaker>
+                  <stage>(<hi>Turning towards him.</hi>)</stage>
+                  <p>And do you think I am not concern'd as well as you?</p>
+               </sp>
+               <sp>
+                  <speaker>Lynch.</speaker>
+                  <p>Yes, my Lord, I ſpeak for you as well as my ſelf.</p>
+               </sp>
+               <sp>
+                  <speaker>Coun. Fitzpatrick.</speaker>
+                  <p>My Lord, they agreed at firſt, that one Man ſhould Challenge for them all — At this rate we are never like to get a Jury for them; it is but an ill ſign of their Innocency, that they are not willing to come to a Tryal.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. Handcock, Council for the Priſoners.</speaker>
+                  <p>In the Peremptory Challenges they a<g ref="char:EOLhyphen"/>greed (but not in the Challenges for Free<g ref="char:EOLhyphen"/>hold) and this peremptory Challenge we will ſtand by.</p>
+               </sp>
+               <sp>
+                  <speaker>J. <hi>Keating.</hi>
+                  </speaker>
+                  <p>I will tell you how I underſtood it; that in their Peremptory Challenges, if any one of them Chal<g ref="char:EOLhyphen"/>leng'd, the reſt ſhould be concluded by it; Mr. <hi>Weſtland</hi> has made a Peremptory Challenge, and they are willing to ſtand by that—however, Mr. <hi>Birne,</hi> ſtand by, do not go away, we may call you again. Clerk of the Crown, proceed, — <hi>&amp;c.</hi> — which he did, until he ended the Third Pannel.</p>
+               </sp>
+               <sp>
+                  <speaker>Sub-Sheriff calls. Will. Baker.</speaker>
+                  <p>My Lord, he has a Free-hold.</p>
+               </sp>
+               <sp>
+                  <speaker>Baker.</speaker>
+                  <p>My Lord, I have no Free-hold.</p>
+               </sp>
+               <sp>
+                  <speaker>Keating.</speaker>
+                  <p>You ſee the Sub-Sheriff is a fit Man to be an Officer; he is blind — he is indifferent.</p>
+               </sp>
+               <sp>
+                  <speaker>High Sheriff calls. Peter Ayris. An.</speaker>
+                  <p>He is on the Grand-Jury.</p>
+               </sp>
+               <sp>
+                  <speaker>Keating.</speaker>
+                  <p>Mr. Sheriff, why do you call ſuch?</p>
+               </sp>
+               <sp>
+                  <speaker>Sheriff.</speaker>
+                  <p>I ſaw him in Court, and ſo I called him, my Lord.</p>
+               </sp>
+               <sp>
+                  <speaker>J. <hi>Keating.</hi>
+                  </speaker>
+                  <p>There is already but five Peremptory Challen<g ref="char:EOLhyphen"/>ges made, ſo that they may Challenge fifteen more peremp<g ref="char:EOLhyphen"/>torily; and there is but two Sworn, ſo that there wants ten.</p>
+               </sp>
+               <sp>
+                  <speaker>Cl. Cr.</speaker>
+                  <p>Sheriff, ſee if you can get any more.</p>
+               </sp>
+               <sp>
+                  <speaker>Sheriff.</speaker>
+                  <p>I ſee never a Free-holder in the Court.</p>
+               </sp>
+               <sp>
+                  <speaker>Coun. Fitzpatrick.</speaker>
+                  <p>My Lord, the Sheriff ought to be puniſh<g ref="char:EOLhyphen"/>ed for his Neglect.</p>
+               </sp>
+               <sp>
+                  <speaker>Bar. Lynch.</speaker>
+                  <p>Sir, why did you not take care to Return a Jury of Free-holders? You ſhall be Fined for it.</p>
+               </sp>
+               <pb n="18" facs="tcp:49292:10"/>
+               <sp>
+                  <speaker>High Sheriff.</speaker>
+                  <p>My Lord, I have Return'd all the Free-hol<g ref="char:EOLhyphen"/>ders there is in the County (I ſent yeſterday above Twenty Miles for one Gentleman here;) They are all gone out of the Country; — I hope you do not expect I ſhould go to the North, or <hi>Iſle of Man,</hi> or <hi>England,</hi> or <hi>Scotland,</hi> among the Rebels, to Summon them.</p>
+               </sp>
+               <sp>
+                  <speaker>J. <hi>Keating.</hi>
+                  </speaker>
+                  <p>I do really believe you, Mr. Sheriff, you have done like an honeſt Man;— Mr. <hi>Fitzpatrick,</hi> what do you ſay in this Caſe?</p>
+               </sp>
+               <sp>
+                  <speaker>Fitzpatrick.</speaker>
+                  <p>My Lord, I cannot tell what to ſay.</p>
+               </sp>
+               <sp>
+                  <speaker>Deputy King's Coun. Hamond.</speaker>
+                  <p>What if there was not one Freeholder in the County, muſt not Juſtice be done?</p>
+               </sp>
+               <sp>
+                  <speaker>J. <hi>Keating.</hi>
+                  </speaker>
+                  <p>Can we make a Law for it?</p>
+               </sp>
+               <sp>
+                  <speaker>Hamond.</speaker>
+                  <p>My Lord, I know that in caſe of an Ejectment, a Tryal has been removed from one County to another.</p>
+               </sp>
+               <sp>
+                  <speaker>J. <hi>Keating.</hi>
+                  </speaker>
+                  <p>Can you by Law go to another County in caſe of Life?</p>
+               </sp>
+               <sp>
+                  <speaker>Hamond.</speaker>
+                  <p>It appears there is not ſufficient Free-holders in this County, the Lands being in ſome few hands.</p>
+               </sp>
+               <sp>
+                  <speaker>J. <hi>Keating.</hi>
+                  </speaker>
+                  <p>You know the Law is otherwiſe, and what will you have us, that are Judges, do? Pray tell us, Sir, what you would be at?</p>
+               </sp>
+               <sp>
+                  <speaker>Hamond.</speaker>
+                  <p>We would have it removed to the next County, or another County.</p>
+               </sp>
+               <sp>
+                  <speaker>J. <hi>Keating.</hi>
+                  </speaker>
+                  <p>For Gods ſake, Mr. <hi>Hamond,</hi> do not put us on making Law.</p>
+               </sp>
+               <sp>
+                  <speaker>Lynch.</speaker>
+                  <p>Mr. <hi>Hamond,</hi> when did you hear that ever a Mat<g ref="char:EOLhyphen"/>ter Capital was tryed in a Foreign County? In matters Ci<g ref="char:EOLhyphen"/>vil, by Rule of Court, or Order of Chancery it may be, but of a Capital Offence it was never known; and we are by our Commiſſion to Try Offences committed againſt the Law in the Counties where the Fact was committed. — We muſt Try them in this County, and cannot remove them from one County to another.</p>
+               </sp>
+               <sp>
+                  <speaker>J. <hi>Keating.</hi>
+                  </speaker>
+                  <p>Mr. <hi>Hamond,</hi> becauſe I would take you off this new Law that you ſo much inſiſt on, that in caſe of an Ejectment it may be Tryed in a Foreign County — I tell you it cannot be Tryed in a Foreign County: We have no Law for it but that of K. <hi>James,</hi> and the Reaſon was, be<g ref="char:EOLhyphen"/>cauſe
+<pb n="19" facs="tcp:49292:10"/>of the Story that was here on foot, for an Heir Male, if Collateral he carried it againſt the Heir general. K. <hi>James</hi> he gave direction that in that caſe it ſhould be Tryed in a different County. And that my Brother tells you of Try<g ref="char:EOLhyphen"/>ing in a different County, by order of Chancery is this. A perſon comes in Chancery, and he ſuggeſts, that ſuch an one was too potent in ſuch a County, and therefore he deſired it might be Tryed in an indifferent County, or get ſuch a Rule of Court on ſuch a ſuggeſtion. And this was the caſe of the Archbiſhop of —, when he was Biſhop of <hi>Lime<g ref="char:EOLhyphen"/>rick.</hi> And if <hi>Walcot</hi> might be believed, he ſaid, was the oc<g ref="char:EOLhyphen"/>caſion of his running into Rebellion.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>There is a Caſe in <hi>Hobart, &amp;c.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>J. Keating.</speaker>
+                  <p>I would undeceive you in that particular. As in the Caſe of <hi>Auſten</hi> and Collonel <hi>Garret Moor.</hi> If in the County of <hi>Gallaway</hi> it was <hi>Auſtens,</hi> if in the Kings County it was Colonel <hi>Moors.</hi> So that you ſee in diſputable Caſes, the Law has regard, that it be Tryed by Juries in proper Coun<g ref="char:EOLhyphen"/>ties. And truly I think it one of the moſt reaſonable Laws in the world, that a man ſhall be Tryed by his Country, by the Neighbourhood; and it has given ground to a good Engliſh Proverb, <hi>He that has an ill Name is half Hanged.</hi> A Mans Repute among his Neighbours goes a great way in this matter. When his Neighbours ſhall ſay they never knew ill by him. And this Man to be carried out of the Coun<g ref="char:EOLhyphen"/>ty of <hi>Wicklow,</hi> to be Tryed at <hi>Wexford,</hi> you may by the ſame rule bring a Jury from <hi>Tyrone,</hi> or the fartheſt part of <hi>Con<g ref="char:EOLhyphen"/>naught.</hi> There is nothing like what you ſay in the Law.</p>
+               </sp>
+               <sp>
+                  <speaker>Hamond.</speaker>
+                  <p>I do not ſay that ever I met with ſuch a thing in the Law.</p>
+               </sp>
+               <sp>
+                  <speaker>Lynch.</speaker>
+                  <p>And do you think that we will make the Preſident.</p>
+               </sp>
+               <sp>
+                  <speaker>Hamond.</speaker>
+                  <p>That two or three perſons ſhould have almoſt the whole County.</p>
+               </sp>
+               <sp>
+                  <speaker>J. Keating.</speaker>
+                  <p>Before God I believe they think they have lit<g ref="char:EOLhyphen"/>tle enough, whatever you may think of their having too much.</p>
+               </sp>
+               <sp>
+                  <speaker>Lynch.</speaker>
+                  <p>What you ſay Mr. <hi>Hamond,</hi> if there be any thing in it, we ſhall adviſe with all the Judges. The Judges decla<g ref="char:EOLhyphen"/>ring their Opinion, that the Priſoners after being Arraigned, could not be admitted to Bayl.</p>
+               </sp>
+               <pb n="20" facs="tcp:49292:11"/>
+               <sp>
+                  <speaker>
+                     <hi>C. Suxborough,</hi> to <hi>Baron Lynch.</hi>
+                  </speaker>
+                  <p>My Lord, you took Bayl for Captain <hi>Ruth</hi> at <hi>Kilkenny,</hi> after his Arraignment.</p>
+               </sp>
+               <sp>
+                  <speaker>Bar. Lynch.</speaker>
+                  <p>What, Sir, do you reflect on me? There was no Evidence appeared, and my Brother bayled him as well as I.</p>
+               </sp>
+               <sp>
+                  <speaker>Suxborough.</speaker>
+                  <p>I ſay he was Bayled.</p>
+               </sp>
+               <sp>
+                  <speaker>Hancock.</speaker>
+                  <p>My Lord, Mr. <hi>Cooper</hi> at <hi>Galaway</hi> was Bayled by your Lordſhip likewiſe.</p>
+               </sp>
+               <sp>
+                  <speaker>C. J. Kenting</speaker>
+                  <p>ſent privately to <hi>Dublin</hi> to the Deputy, ac<g ref="char:EOLhyphen"/>quainting him, that if they were left in priſon untill the next Aſſizes, they would certainly periſh, they having loſt all they had, and the County was not able to maintain them; up<g ref="char:EOLhyphen"/>on which he received Orders to Bayl all but Seven of the Principal, <hi>viz.</hi>
+                     <list>
+                        <item>
+                           <hi>John Price</hi> 
+                           <abbr>Eſq</abbr>
+                        </item>
+                        <item>
+                           <hi>Tho King.</hi>
+                        </item>
+                        <item>
+                           <hi>Richard Weſtland.</hi>
+                        </item>
+                        <item>
+                           <hi>William Lewis.</hi>
+                        </item>
+                        <item>
+                           <hi>James Bacon.</hi>
+                        </item>
+                        <item>
+                           <hi>Joſeph Crichley.</hi>
+                        </item>
+                        <item>
+                           <hi>George Crichley.</hi>
+                        </item>
+                     </list>
+                  </p>
+                  <p>Who are kept cloſe Priſoners in order to their Tryal the next Aſſizes, which will be in this Month of <hi>July.</hi> Upon the taking theſe Gentlemen Priſoners, the Souldiers and Rab<g ref="char:EOLhyphen"/>ble plundred and ſpoyled all the Engliſh Families in <hi>Balin<g ref="char:EOLhyphen"/>derry, Redrum, Balina-Claſh, &amp;c.</hi> and the Iriſh Women with their Skeanes came afterwards and ſtript the Women and Children Naked, leaving them in a moſt miſerable and deplorable condition, having not left them either Bread, or any Food in ſeveral Towns, but carried all away with them. And as an Iriſh man a Tanner declared to ſeveral at the Aſ<g ref="char:EOLhyphen"/>ſizes, in the hearing of this Relator, That one Captain <hi>Toole</hi> had for his ſhare Twenty ſix Horſe Loads (or more) of Plun<g ref="char:EOLhyphen"/>der; and the Lord of <hi>Lowths</hi> Troop of Dragoons that were quartered in <hi>Wicklow</hi> Town, had great quantities of Woollen and Linen Cloath, Womens Cloaths, Pewter and other Goods in abundance. But the <hi>L. C. J. Keating</hi> coming there to the Aſſizes, and having an account of the extream poverty and miſery the Proteſtants thereabouts were reduced to, did en<g ref="char:EOLhyphen"/>courage their Petitioning, and where they could find their Cloaths, <hi>&amp;c.</hi> he endeavoured to help them in the recovery of them. And Mr. <hi>Richard Lamb</hi> having Ten fat Bullocks
+<pb n="21" facs="tcp:49292:11"/>taken away by Collonel <hi>Tooles</hi> men, and brought to <hi>Wicklow,</hi> and there killed and eaten by the Souldiers. He preferred a Petition to the Court, Colonel <hi>Toole</hi> being preſent on the Bench.</p>
+               </sp>
+               <sp>
+                  <speaker>L. C. J. Keating.</speaker>
+                  <p>Collonel <hi>Toole</hi> you heard the Petition read, do you know any thing of theſe Oxen Mr. <hi>Lamb</hi> had taken from him by your Souldiers.</p>
+               </sp>
+               <sp>
+                  <speaker>C. Toole.</speaker>
+                  <p>My Lord, I will tell you how it was; Mr. <hi>Lamb</hi> had ſold the Bullocks to Mr. <hi>Price,</hi> and as they were driving them to <hi>Balinderry,</hi> the Soldiers met them and took them away.</p>
+               </sp>
+               <sp>
+                  <speaker>L. C. J. Keating.</speaker>
+                  <p>But Mr. <hi>Lamb</hi> was at home at his own Houſe, and not at <hi>Balinderry,</hi> the Bullocks were to be paid for upon Mr. <hi>Lambs</hi> delivering them to Mr. <hi>Price</hi> at <hi>Balinderry,</hi> your Souldiers took them away from his Servant ſeveral miles from <hi>Balinderry;</hi> I ſee no reaſon why Mr. <hi>Lamb</hi> ſhould not be paid for them.</p>
+               </sp>
+               <sp>
+                  <speaker>C. Toole.</speaker>
+                  <p>My Lord, Colonel <hi>Sheldon</hi> came down ſoon after with the Kings Army, and I adviſed with him, and he or<g ref="char:EOLhyphen"/>dered they ſhould be killed for the Army, which was done accordingly.</p>
+               </sp>
+               <sp>
+                  <speaker>L. C. J. Keating.</speaker>
+                  <p>Pray Colonel <hi>Toole</hi> however, Mr. <hi>Lamb</hi> ought to be paid for them; he was not concerned with <hi>Ba<g ref="char:EOLhyphen"/>linderry,</hi> but kept his own Houſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Council Fitzpatrick.</speaker>
+                  <p>My Lord, his Houſe was a Garriſon too?</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. Hancock.</speaker>
+                  <p>For ſhame Mr. <hi>Fitzpatrick,</hi> a Thatcht Gabin a Garriſon; I find you are for making all Proteſtants Rebels that live peaceably at home in their own Houſes.</p>
+               </sp>
+               <sp>
+                  <speaker>C. Toole.</speaker>
+                  <p>My Lord, I have no more to ſay to the matter.</p>
+               </sp>
+               <sp>
+                  <speaker>Clerk of the Crown.</speaker>
+                  <p>Calling over the Gentlemen of the County, called one—<hi>Savil</hi> Gent.</p>
+               </sp>
+               <sp>
+                  <speaker>Savil.</speaker>
+                  <p>Here I am, my Lord, God knows, a poor Gentle<g ref="char:EOLhyphen"/>man, being Robb'd of all, and not a penny left me to buy a pint of drink.</p>
+               </sp>
+               <sp>
+                  <speaker>L. C. J. Keating.</speaker>
+                  <p>Pray Sir when were you Rob'd?</p>
+               </sp>
+               <sp>
+                  <speaker>Savil.</speaker>
+                  <p>The laſt Wedneſday they came and took away what little they had left untaken before, my Wife and Chil<g ref="char:EOLhyphen"/>drens Cloaths, Robbing me of all.</p>
+               </sp>
+               <sp>
+                  <speaker>L. C. J. Keating.</speaker>
+                  <p>Pray Sir, what value may your loſs be?</p>
+               </sp>
+               <pb n="22" facs="tcp:49292:12"/>
+               <sp>
+                  <speaker>Mr. Savil.</speaker>
+                  <p>Truly my Lord, I have not yet computed my loſs, but they have taken away all; I deſire your Lordſhip will diſcharge me from attending the Court, for I have not where withal to ſubſiſt while I am here.</p>
+               </sp>
+               <sp>
+                  <speaker>L. C. J. Keating.</speaker>
+                  <p>Sir, I am ſorry for you, I diſcharge you.</p>
+               </sp>
+               <sp>
+                  <speaker>L. C. J. Keating.</speaker>
+                  <p>Colonel <hi>Toole,</hi> Let the Officers be ſent for into Court, to here this Proclamation read, that is ſent down here by the Government.</p>
+               </sp>
+               <sp>
+                  <speaker>Toole.</speaker>
+                  <p>My Lord, they are here moſt of them, here is Cap<g ref="char:EOLhyphen"/>tain <hi>Archbold,</hi> Captain <hi>Toole, &amp;c.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Clerk of the Crown.</speaker>
+                  <p>Read the Proclamation, the ſubſtance where of was, That they ſhould reſtore the Proteſtants ſuch of their Horſes again, as were not ſit for the Kings Service, <hi>&amp;c.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>J. Keating.</speaker>
+                  <p>Calls for it from the Clerk, and giving it to Colonel <hi>Tools</hi> hand, who ſtood next him on the Bench, Sir, Pray take this Proclamation, and I hope you will take care that obedience be given to it.</p>
+               </sp>
+               <sp>
+                  <speaker>Toole.</speaker>
+                  <p>My Lord, we have received other Orders, Colonel <hi>Sheldon</hi> who is our Chief Commander, has given directious to have them kept for Draught for Carriages.</p>
+               </sp>
+               <sp>
+                  <speaker>J. Keating.</speaker>
+                  <p>Nay, Sir, if Colonel <hi>Sheldon</hi> muſt be obeyed before the Government, I have no more to ſay, I have done.</p>
+               </sp>
+               <sp>
+                  <speaker>Toole.</speaker>
+                  <p>My Lord, I ſhall obey it.</p>
+               </sp>
+               <sp>
+                  <speaker>J. Keating.</speaker>
+                  <p>Pray then Coll. <hi>Toole,</hi> let the Horſes be ſent for, while that I am here, that what Horſes are not muſterable may be return'd: I cannot in my Conſcience go about to fine Men, for not appearing at the Aſſizes, when they have not a Horſe left them to ride on.</p>
+               </sp>
+            </div>
+            <div type="proceedings">
+               <head>The further Proceedings at the Aſſizes at <hi>Wicklow,</hi> in <hi>Ireland:</hi> Being an Account of the Tryal of ſeveral Fe<g ref="char:EOLhyphen"/>lons, <hi>&amp;c. March</hi> the <hi>6th</hi> and <hi>7th, 1688/9.</hi>
+               </head>
+               <p>
+                  <hi>SEveral were Arraigned for ſtealing conſiderable Numbers of Cows, Sheep,</hi> &amp;c. <hi>but the Evidence againſt moſt of them durſt not appear to proſecute.</hi>
+               </p>
+               <p>Leaghlin Birne <hi>Indicted for ſtealing Nine Head of Black Cat<g ref="char:EOLhyphen"/>tle, from one</hi> Colwell: <hi>No Perſon appearing to proſecute, ſays,</hi>
+               </p>
+               <pb n="23" facs="tcp:49292:12"/>
+               <sp>
+                  <speaker>J. Keating</speaker>
+                  <stage>(to the Jury):</stage>
+                  <p>Gentlemen, you have nothing againſt this Man; he was born in the ſtate of Innocency: But the truth is, the Parties dare not appear againſt him.</p>
+               </sp>
+               <stage>Witneſſes came in againſt Three Fellows, (viz.) <hi>Maurice Cavanagh, Edmond Poor, William Bowland.</hi>
+               </stage>
+               <stage>Clerk of the Crown, Calling them to come and proſecute, and they appearing.</stage>
+               <sp>
+                  <speaker>J. Keating.</speaker>
+                  <p>You that are Evidences againſt the Priſoners at the Bar, I charge you as you will anſwer it before God, that you neither for favour nor affection be inclined to ſpare any of theſe Villains; and likewiſe, that you will conceal nothing of the Truth, as you will anſwer it at the Great Day; for I tell you, the Cries and Groans of the poor Wo<g ref="char:EOLhyphen"/>men and Children, and the many Families that are ruined, and in great diſtreſs, will go up to Heaven againſt you.</p>
+               </sp>
+               <stage>Evidence againſt</stage>
+               <sp>
+                  <speaker>Ed. Poor.</speaker>
+                  <p> My Lord, when I came to him, and ask'd him, why he ſtole my Cows? He ſaid, The De<g ref="char:EOLhyphen"/>vil did make him do it. I ſpake him fair, and he gave me Money for my Cows.</p>
+               </sp>
+               <sp>
+                  <speaker>Poor.</speaker>
+                  <p>I, my Lord, and he promiſed not to trouble me.</p>
+               </sp>
+               <sp>
+                  <speaker>J. Keating.</speaker>
+                  <p>It was an unlawful Promiſe, the Law would not juſtifie him in it; he has done like an honeſt Man: If you paid the Money out of Conſcience, you did well; but I fear it was your danger of the Halter made you part with your Money; for if 22 <abbr>
+                        <hi>s.</hi>
+                     </abbr> and Damnation ſtood in the way, I believe you would have kept the Money: I am ſure with<g ref="char:EOLhyphen"/>out ſatisfaction you cannot expect Abſolution; the Prieſt that gave the other Advice, for the Maddoge or Skean, will, I ſuppoſe, tell you ſo.</p>
+               </sp>
+               <stage>
+                  <hi>Two Proteſtant Evidences againſt</hi> Maurice Cavenagh, <hi>for ſtealing ſeveral Head of Black Cattle, hearing Judge</hi> Keating <hi>ſpeak againſt Skeans, ſaid,</hi>
+               </stage>
+               <sp>
+                  <speaker>Evidence.</speaker>
+                  <p>My Lord, when we ſeized him, we took a Skean away from him.</p>
+               </sp>
+               <sp>
+                  <speaker>J. Keating.</speaker>
+                  <p>Sir, How durſt you carry ſuch an unlawful Weapon?</p>
+               </sp>
+               <sp>
+                  <speaker>Cavenagh.</speaker>
+                  <p>My Lord, I am a Butcher, it was a Butchers Knife.</p>
+               </sp>
+               <sp>
+                  <speaker>J. Keating.</speaker>
+                  <p>Ay, I do not queſtion but thou canſt butcher upon occaſion.</p>
+               </sp>
+               <sp>
+                  <pb n="24" facs="tcp:49292:13"/>
+                  <stage>
+                     <hi>One</hi> Hicky <hi>ſpoke.</hi>
+                  </stage>
+                  <p>My Lord, he is no Butcher; but one of the greateſt Rogues in the Country round us. I have been in purſuit of him ſeveral times.</p>
+               </sp>
+               <sp>
+                  <speaker>Cavenagh.</speaker>
+                  <p>He is a Murderer, My Lord, do not believe him.</p>
+               </sp>
+               <sp>
+                  <speaker>Evidence.</speaker>
+                  <p>My Lord, it was near ten Inches long, thick at the back, and ſharp point, every way a Skean.</p>
+               </sp>
+               <sp>
+                  <speaker>J. Keating.</speaker>
+                  <p>Is that your Butchers Knife; you are a great Villain, for carrying ſuch a Weapon.</p>
+               </sp>
+               <sp>
+                  <speaker>Cavenagh.</speaker>
+                  <p>I was order'd to have a Skean, my Lord.</p>
+               </sp>
+               <sp>
+                  <speaker>J. Keating.</speaker>
+                  <p>Pray Sir, who order'd you?</p>
+               </sp>
+               <sp>
+                  <speaker>Cavenagh.</speaker>
+                  <p>The Prieſt of the Pariſh.</p>
+               </sp>
+               <sp>
+                  <speaker>J. K.</speaker>
+                  <p>A Prieſt, Sir, <hi>(turning to his Brother Judge)</hi> Do you hear that Brother.</p>
+               </sp>
+               <sp>
+                  <speaker>Bar. Lynch.</speaker>
+                  <p>What Prieſt, Sir? What Prieſt? What is your Prieſt's Name?</p>
+               </sp>
+               <sp>
+                  <speaker>J. K.</speaker>
+                  <p>Hold Brother. Come Sir, I ſhall not ask your Prieſt's Name; I believe you will have occaſion to ſee your Prieſt ſoon, to do you a better Office, then to adviſe you to carry Skeans.</p>
+               </sp>
+               <stage>(<hi>And looking towards Coll.</hi> Tool, <hi>and two Prieſts on the Bench, next Sheriff</hi> Birne.)</stage>
+               <sp>
+                  <speaker>J. Keating.</speaker>
+                  <p>A Prieſt, Gentlemen; a Prieſt is a Miniſter, and a Miniſter of the Goſpel, his Doctrine ought to be Peace, for the Goſpel is a Doctrine of Peace: When our Saviour came into the World, Peace was proclaimed; and when he went out of the World, he left it for a Legacy to his Diſciples: <hi>My Peace be with you.</hi> And pray Sir, tell your Prieſt ſo from me, when you ſee him. It is not for Prieſts to arm or animate ſuch Villains as you are for Miſchief. I ſhall not ask your Prieſt's Name.</p>
+                  <p>Clancy <hi>an Iriſh Gent.</hi> My Lord, he belies the Prieſt; he is a Rogue.</p>
+               </sp>
+               <sp>
+                  <speaker>Cavanagh.</speaker>
+                  <p>I do not: The Prieſts of every Pariſh did give orders to get Half-pikes, and Skeans; and they were getting together in Companies, in every Pariſh.</p>
+               </sp>
+               <sp>
+                  <speaker>J. Keating.</speaker>
+                  <p>Who were they that were gotten together; ſuch Fellows as you?</p>
+               </sp>
+               <sp>
+                  <speaker>Cavanagh.</speaker>
+                  <p>No, my Lord, better Men then I; a great many that are here in Court.</p>
+               </sp>
+               <pb n="25" facs="tcp:49292:13"/>
+               <stage>
+                  <hi>The Jury withdrawing, and returning ſoon again, brought</hi> Poor <hi>and</hi> Bowland <hi>in Guilty,</hi> Cavenagh <hi>Not Guilty.</hi>
+               </stage>
+               <sp>
+                  <speaker>J. Keating.</speaker>
+                  <p>Gentlemen, you have acquitted the greater Villain; at your Door let it lie.</p>
+               </sp>
+               <stage>
+                  <hi>The Ordinary being called to give</hi> Bowland <hi>and</hi> Poor <hi>the Book, for their Clergy.</hi>
+               </stage>
+               <sp>
+                  <speaker>J. Keating.</speaker>
+                  <p>Sir, I expect as true a Return from you, as if I were there my ſelf: The Times are ſo that Men muſt forget Bowels of Mercy. Ordinary, do your Duty: What place do you ſhew them?</p>
+               </sp>
+               <sp>
+                  <speaker>Ordinary.</speaker>
+                  <p>My Lord, I ſhew them the 50th <hi>Pſalm.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>J. Keating.</speaker>
+                  <p>Let them read the 5th Verſe.—This is an Act of Mercy; and I know not why it ſhould not be in <hi>Iriſh</hi> rather, the Country Language; it was formerly in <hi>Latin,</hi> becauſe the <hi>Romiſh</hi> Church hath their Worſhip in <hi>Latin.</hi>
+                  </p>
+               </sp>
+               <stage>
+                  <hi>The Ordinary return'd them both</hi> (Non Legit).</stage>
+               <sp>
+                  <speaker>J. Keating.</speaker>
+                  <p>You <hi>William Bowland,</hi> and you <hi>Edmund Poor,</hi> you have been Arraigned for ſtealing of Cows, two ſeveral Thefts: It is a great misfortune and ſin to be guilty of ſuch Crimes at any time; but yours is ſo much the worſe, be<g ref="char:EOLhyphen"/>cauſe it falls in a time when there are ſuch general and vaſt Depredations in the Country; that many honeſt Men go to Bed poſſeſt of conſiderable Stocks of Black and White Cattel, (gotten by great labour and pains, the Induſtry of their whole Lives) and in the Morning when they ariſe, not any thing left them; but turn'd out of all, to go a begging, all being taken away by Rebels, by Thieves and Robbers, the Sons of Violence, that make every thing they lay their Hands on their own, on this ſide the Cape of Good Hope; (where are the moſt bruitiſh and barbarous People we read of) there is none like the People of this Country; nor ſo great a Deſo<g ref="char:EOLhyphen"/>lation as in this Kingdom, at this day, any where to be found, and particularly in this County: It is come to that paſs, the a Man that looſes the better part of his Subſtance, chuſe
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ther to let that, and what he has beſides go, than come to give Evidence: And why? Becauſe he is certain to have his Houſe burnt, and his Throat cut, if he appears againſt them. Good God! what a paſs are we come to! For what has any Man, if the ſtronger Hand can take it from
+<pb n="26" facs="tcp:49292:14"/>him; it is better to live under no Law, than in ſuch a place. We have lived to ſee twenty nine Years of Peace paſs over our Heads: And I have ſat on this Bench before now; I pray God, that my lenity, and others, has not gi<g ref="char:EOLhyphen"/>ven Encouragement to theſe Thieves and Robbers; there may be a Rogue in the Court, or one that is evilly inclined (I know none) but take notice of this, the Government is at length tyr'd with Mercy, they ſee it does no good; and Examples and Puniſhments of this kind, are not intended ſo much in a great part for the puniſhment of the Offender, as for diſcouraging of others; to make them take warning by their Example, that ſeeing what evil Courſes bring Men to they may reform.</p>
+                  <p>I will not take up time to tell you how the benefit of Cler<g ref="char:EOLhyphen"/>gy came; whether in the room of the Cities of Refuge that were in the old times; I know that Reſtitution was under the Jewiſh Law ſufficient ſatisfaction; and if the Thief could not make Reſtitution, he was to be ſold for a ſlave, and the Money given to the party. But as the world grows old, it grows worſe, and thoſe Lenitives ſignifie nothing for preventing Thieving and Robbery; for Thieves and Rob<g ref="char:EOLhyphen"/>bers are like a Gangreen in the Commonwealth, they are worſe then Drones in the Hive. I cannot tell my ſelf, that under the Circumſtances we are in, I ſhould adviſe to pardon any that are taken in this general depredation that we are un<g ref="char:EOLhyphen"/>der, and therefore you <hi>Bowland</hi> and <hi>Poore,</hi> that might have lived as ſafely under the Laws, as the biggeſt man in the Kingdom, and none of your fellow Subjects durſt lay his hand upon you, but he was liable to anſwer for it; and thus you might have lived to a fair old age, and ended your days in peace, but you have choſen the quite contrary, for the Law provides likewiſe for the puniſhment of wicked and offend<g ref="char:EOLhyphen"/>ing perſons, among which number you are found by a Jury
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Twelve able men of your Countrey; and therefore the Sentence of the Law is this, That you be both and each of you taken from this place, to the place from whence you came, and there your Irons to be ſtruck off, and from thence to the place of Execution, and there you ſhall be Hanged by the Neck till you are Dead, and the Lord have mercy on your Souls.</p>
+                  <p>
+                     <pb n="27" facs="tcp:49292:14"/> And now let me give you advice, your time is ſhort, ſpend it well, and flatter not your ſelves with the hopes of a Re<g ref="char:EOLhyphen"/>prieve or Pardon; and for you <hi>Poore,</hi> you have ſhortned the work of your Life, you have gone a great way towards Hea<g ref="char:EOLhyphen"/>ven, if that Reſtitution you made was out of Conſcience. Mr. Sheriff, let them have a Confeſſor ſent to them, for Sa<g ref="char:EOLhyphen"/>turday is the day of their Execution. The Women their friends ſetting up the cry in the Court.</p>
+               </sp>
+               <sp>
+                  <speaker>J. Keating.</speaker>
+                  <p>They did not cry thus when the Cows were brought home to them, they were buſied then in the killing and the powdring them up.</p>
+               </sp>
+               <p>The Copy of a Protection, or Paſs, given by an <hi>Iriſh</hi> Officer to ſome Notorious Robbers of the County of <hi>Wicklow,</hi> the Original being now in the hands of the Book-ſeller in <hi>London, viz.</hi>
+                  <q>
+                     <floatingText xml:lang="eng">
+                        <body>
+                           <div type="safe-conduct">
+                              <p>I James Byrne, <hi>Enſign to Capt.</hi> Charles Byrne, <hi>do hereby certifie to you,</hi> Terlagh Kelly, Patrick Byrne, <hi>and</hi> Patrick Mac-Teige, <hi>and</hi> William Doyle, <hi>to ſave you harmleſs for any Miſdemeanors whatſoever.</hi>
+                              </p>
+                              <closer>
+                                 <dateline>
+                                    <hi>As Witneſs my Hand</hi>
+                                    <date>
+                                       <hi>this</hi> 24th. <hi>of</hi> April, 1689.</date>
+                                 </dateline>
+                                 <signed>James Byrne.</signed>
+                              </closer>
+                           </div>
+                        </body>
+                     </floatingText>
+                  </q> 
+               </p>
+               <p>The following Letter being ſent by the Lord-Deputy to the Judges of Aſſize, was read in Court to the Grand-Jury, <hi>&amp;c.</hi>
+               </p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <signed>By the Lord-Deputy, General, and General-Governour of <hi>Ireland.</hi>
+                        </signed>
+                     </opener>
+                     <p>
+                        <hi>AFter Our hearty Commendations, We Great you well. As His Majeſty was graciouſly pleaſed to entruſt <g ref="char:V">Ʋ</g>s with the Government of this his Kingdom, ſo upon the Invading of</hi> England, <hi>and up<g ref="char:EOLhyphen"/>on receiving certain Information, that the Prince of</hi> Orange <hi>doth intend alſo to Invade this Realm, We have, for the Defence thereof, raiſed a Conſiderable Army, far above what could be maintained by the King's Revenue at the beſt of Times, and when the Trade of this Country was in the moſt flouriſhing Condition; this we have done by the King's Com<g ref="char:EOLhyphen"/>mand, to ſupport his Regal Authority, Crown, and Dignity, and to pre<g ref="char:EOLhyphen"/>ſerve the Lives, Liberties, and Properties of all his Liege People within this Kingdom. And ſince our Dangers are at hand, and that we may daily expect the Landing of an Enemy, who intends the Subverſion of His Majeſty's Government, the total Deſtruction of all his good Subjects. Here we find our ſelves under an abſolute Neceſſity to keep the King's Army ſtill on foot, in order to our preſervation from the approaching Dangers. And tho' we have hitherto with all the Care and Induſtry imaginable, and by the Generous Concurrence of the Officers, ſupported the new-raiſed Forces, without being a Burthen to any other of His Ma<g ref="char:EOLhyphen"/>jeſty's People. Yet conſidering the decay of Trade, the great fall of the Revenue in theſe diſtracted Times, the great Charges the Officers have been at in ſubſiſting their Men, it cannot be expected that the ſtanding Forces can hereafter be maintained without Supplies; and ſince the ſame cannot be done by Parliament, We cannot think of a more effectual Ex<g ref="char:EOLhyphen"/>pedient,
+<pb n="28" facs="tcp:49292:15"/>than by voluntary Subſcriptions, by way of Loan, from the Peo<g ref="char:EOLhyphen"/>ple; which, if Generouſly done, with what may be made of the Revenue, may ſupport the Army, and will ſtop all the Diſorders that may be commit<g ref="char:EOLhyphen"/>ted by the Souldiers, which We ſhall always endeavour to prevent with all the Care and Induſtry poſſible. By this Husbandry may go on as formerly, and We ſhall be in a Capacity to form the Army ſo, as that, with the Aſſiſtance of Almighty God, We do not doubt to put this Kingdom in a perfect poſture of Defence. We do therefore pray your Lordſhips to Re<g ref="char:EOLhyphen"/>commend this Weighty Matter effectually at the Open Aſſizes in every County when you ſit, to all the Inhabitants of ſuch Counties, and to ap<g ref="char:EOLhyphen"/>point the reſpective Sheriffs of ſuch Counties, to procure voluntary Sub<g ref="char:EOLhyphen"/>ſcriptions, by way of Loan, from the Inhabitants of ſuch Counties, of ſome certain Sum of Money from each, to be ſubſcribed to their Names, to be afterwards ſatisfied by them reſpectively, in Money, Wheat, Oats, or Oatmeal, towards the Maintenance of the Army, to be paid in, or deli<g ref="char:EOLhyphen"/>vered to the reſpective Sheriffs, or their Order, and in ſuch places as the ſaid Sheriffs ſhall reſpectively appoint, from whom we expect an Account of their proceedings herein, and a Copy of ſuch Subſcriptions as ſhall be made. We do not doubt but every True and Loyal Subject will, accord<g ref="char:EOLhyphen"/>ing to his Ability, and the Exigency of the Subject-matter, generouſly and chearfully Contribute towards the carrying on of ſo Great, ſo Neceſſary, and ſo Glorious a Work. We expect your Diligent Care herin, and ſo We bid you heartily Farewel.</hi>
+                     </p>
+                     <closer>
+                        <dateline>From His Majeſty's Caſtle of <hi>Dublin,</hi>
+                           <date>the Second Day of <hi>March,</hi> 1688.</date>
+                        </dateline>
+                        <signed>Your very Loving Friend, TYRCONNEL.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>An Anſwer to the foregoing Letter being drawn up by the Grand-Jury, and entred into their Book, and preſented to Sir <hi>Henry Lynch,</hi> ſetting forth the extream Poverty of their County, occaſioned by the daily Ruin of the <hi>Engliſh,</hi> &amp;c. That they were not in a Capacity to ſubſiſt themſelves, and therefore not capable to raiſe any thing conſi<g ref="char:EOLhyphen"/>derable for the Army; (Chief Juſtice <hi>Keating</hi> returning to <hi>Dublin,</hi> and leaving Baron <hi>Lynch</hi> to go on to the other Counties, &amp;c.) the ſaid <hi>Lynch</hi> told the Grand-Jury before he diſcharged them, that the Writing they had drawn up, was a Reflection and Scandal to their Country, would be taken very ill by the Government, and did not queſtion but it would be brought in hereafter as an Evidence againſt them; and therefore Order'd it ſhould be torn out of the Book, which was done accordingly.</p>
+               <p>A Gentleman, taken by Sheriff <hi>Power</hi> and the <hi>Iriſh</hi> Army, with the reſt of the Priſoners Condemned at <hi>Gallaway,</hi> having made his Eſcape for <hi>England,</hi> writ the following Letter to a Friend his Relation.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>Dear Brother,</salute>
+                     </opener>
+                     <p>THE Excuſe that I offer for my not writing, is this, That my thoughts were ſo taken up, what with the Miſery I appre<g ref="char:EOLhyphen"/>hended my poor helpleſs Father, Mother, Wife, and Chil<g ref="char:EOLhyphen"/>dren (which are all dear almoſt alike to me) were in, and an en<g ref="char:EOLhyphen"/>deavour
+<pb n="29" facs="tcp:49292:15"/>to procure ſome Employ, whereby I ſhould keep them, if they could make their Eſcape, and my ſelf from periſhing; God is All-ſufficient, who, I doubt not, will provide for us, if we make but a right uſe of our Afflictions. It was my Fortune to meet with ſome Friends, that promiſed, the firſt Men that ſhould be raiſed, to procure me ſome Employ; but when that will be, is ſo uncertain, and to live a Drone amongſt my Friends (who are almoſt in the ſame Circum<g ref="char:EOLhyphen"/>ſtance with my ſelf) I lookt upon to be ſo much below a Man, that I choſe rather to Liſt my ſelf a private Centinel, whereby I propo<g ref="char:EOLhyphen"/>ſed to be in the Road (if my Friends miſſed) to hew out ſome Pre<g ref="char:EOLhyphen"/>ferment in the mean time: As to my private Condition, ſince it plea<g ref="char:EOLhyphen"/>ſes God to bleſs me with Health, I hope to reſt ſatisfied. Yet I en<g ref="char:EOLhyphen"/>tertain hopes of a merry Hunting-Bout of my Country-men, of which Sport I had a little reliſhing taſte, which ſerves to ſharpen a greedy Stomach, that longs to Revenge the Murder of my dear Siſter <hi>Burdett,</hi> and their Outrages to my Friends.</p>
+                     <p>I never knew what Sorrow was, till I had the Account of my Siſter's Death at that diſmal Gate of <hi>Liſcarrol;</hi> it ſeemed ſuch to me, for while I ſtaid at it, I made my Obſervation that there was not the leaſt noiſe, as if all were dead. The Apprehenſion of which did ſo over<g ref="char:EOLhyphen"/>whelm me, that oft on the Road (not thinking what I did) I burſt out into Exclamations, charging my ſelf with being the Occaſion of bringing my poor Aged Father, Mother, Wife, and Family, if not to an untimely Death, yet to Sorrow and Miſery; which (to aggra<g ref="char:EOLhyphen"/>vate the Crime) I look'd upon to be the worſt Condition of the two. When I reach'd <hi>Moyallow,</hi> tho' many endeavour'd to divert me, and I apprehended they might apply it to my Cowardize, yet I was not able to lift up my Spirits, but being put to Bed, where I had the benefit of an hours troubleſome ſleep. The next Morning I reſolved to think of nothing but Revenge, but having an Account of Captain <hi>Boiles</hi> ſurrendring, which left us without hopes of making any Head in <hi>Mun<g ref="char:EOLhyphen"/>ſter,</hi> Sir <hi>Thomas Southwell,</hi> Capt. <hi>Purdon,</hi> and about one hundred more of us reſolved to make our way to <hi>Sligoe.</hi> The firſt day we met with no Oppoſition, and at Night Baited at a Widdow's Houſe about ſix or ten Miles from <hi>Lymerick,</hi> where we ſtaid for three or four hours, then mounting with the Moon, we marched on; early next Morning Capt. <hi>Mills</hi> overtook us with a Party of Horſe, ſoon after riding near a ſtrong Caſtle, with a large Bawn well walled in, we underſtood it was fortified by <hi>Engliſh,</hi> where we took an Opportunity to Refeſh our Horſes, upon which their went a Rumour, that my Lord of <hi>Clare</hi> had taken the Caſtle, which made the Sparks of the Country think them happieſt that could reach us firſt, to ſhare in the Plunder. Having Advice of it, we drew up near the Gate, to receive about 20 Horſe, that were Riding full Speed to us; but when they perceived the Mi<g ref="char:EOLhyphen"/>ſtake, they hung their Ears, tamely ſuffering us to diſarm and diſ<g ref="char:EOLhyphen"/>mount them; but at the Requeſt of the Garriſon, who were loath to
+<pb n="30" facs="tcp:49292:16"/>leave their Families; and underſtanding by us the ſtate of the Coun<g ref="char:EOLhyphen"/>try, which might well make them deſpair of holding out, that they might fare the better, we returned both Horſes and Arms. Thence we marched towards <hi>Brians-Bridge,</hi> the Roads being very bad, we rid ſcattering, the Front at leaſt a Mile from the Rere, which a Party of Dragoons perceiving, lay in Ambuſh, and as we mov'd by, they made about 12 Shot at us altogether, which by God's Providence did no hurt, moſt of us that were there being armed with Back, Breaſt, and Head-pieces, but we ſoon anſwered them in their own Language, each Man ſiring both his Piſtols and Carbine, before we ſtired out of the place, which proved fatal to ſome of them, two being killed, and a third wounded, which made the reſt imagine we were angry, and rudely, without begging our Pardon, they run away, but (to little purpoſe) we imprudently hunted them for 2 or 3 hours, their Horſes being freſh, they got off clear, only one of our Bullers happening to overtake the Cornet's Horſe, gave his Maſter an Opportunity to exerciſe his Feet for 3 or 4 Miles with us. The next Oppoſition we met with, was at the Bridge in the County of <hi>Clare,</hi> the end of it being fortified with a ſtrong Gate, and near it two Houſes that commanded each ſide, but the Cowardly Soul<g ref="char:EOLhyphen"/>diers were eaſily perſwaded to ſet it open, upon our promiſe that we would do them no hurt, but on the other hand they were threatned (if they did not) to be cut with the Gate in pieces. Thence we made to<g ref="char:EOLhyphen"/>wards <hi>Killalow,</hi> where a Company of Foot was quartered; when they perceived us coming near, they'd fain have fortified themſelves in the Cathedral, but the poor old Biſhop refuſed the Key, for which I fear he has ſufficiently ſuffered. Then they bethought themſelves to ſend a Meſ<g ref="char:EOLhyphen"/>ſenger to know what we would be at: Our Anſwer was, that we deſign<g ref="char:EOLhyphen"/>ed to hurt none that deſired to be peaceable, which they made a promiſe to be, whereupon we did reſolve to make that our Stage for that Night, ſo that every man's buſineſs was only to find the beſt Quarters he could for himſelf and his Horſe. 'Twas my luck to hit where I met a Friend, and yet a Papiſt, who was extreamly importunate that I ſhould wave the thoughts of going any further on my Deſign urging that he did not doubt to make ſuch Friends as would protect me and mine with our ſubſtance; but if I would not be ruled, my Undertaking was ſo raſh, that he feared the next would be of my being hanged or killed among the reſt. My reply (with thanks for his kindneſs) was, that I would make even that Doom my choice, rather than it ſhould be ſaid, I flinch<g ref="char:EOLhyphen"/>ed for fear; ſtill he was more urgent, till in ſhort, I gave him to under<g ref="char:EOLhyphen"/>ſtand, I was ſo far from having any thoughts of returning home (where I thought I could be no better than a piſſing-poſt to every Cur) that if I were at that inſtant there, I would make it my buſineſs if I could find out any poſſibility of compaſſing it, to overtake the Party I was then in. Then finding how I was bent, he charg'd me not to offer to ſtay there that Night, for that, notwithſtanding his Promiſe, the Captain ſent an Expreſs to <hi>Lymerick,</hi> and that he did not queſtion but about Mid<g ref="char:EOLhyphen"/>night
+<pb n="31" facs="tcp:49292:16"/>they would be upon us, which when I acquainted Sir <hi>Thomas</hi> with, we reſolved upon a further march; while ſome were getting ready, others took occaſion to diſarm a Guard that had the Biſhop's Horſes in their Cuſtody, which trouble we eaſed them of, Mr. <hi>Hawkins</hi> the Clergy-mans Brother, and ſome of the Biſhop's Servants went along with us. The Arms, according to our Promiſe, we returned, and taking the Biſhop's Bleſſing, we went that Night to Mr. <hi>Purdon</hi>'s near the <hi>Shannon-ſide;</hi> as ſoon as we alighted, I adviſed Sir <hi>Thomas</hi> to procure a truſty Servant of the Houſe to go to <hi>Killalow</hi> to give us an account if there ſhould any follow us thence, and then <hi>Will. Southwell</hi> and I ſtole to bed, but as ſoon as we had the beneſit of the Moon, we made ready to move forward, fearing that our Enemies ſhould break <hi>Scarriff-Bridge,</hi> there being a Company of them in <hi>Tomgreny-Caſtle.</hi> Next day <hi>James Power,</hi> who is High-Sheriff of the County of <hi>Galloway,</hi> having an Account the day before of our march that way, he raiſed the Country, and riding out upon the Hills as a Spy, perceived how our Men, as well as our Horſes, were almoſt beaten out, and how we were at a loſs for the Road, which made him ſo kind, as to place Guides (for they ſecured what <hi>Engliſh</hi> there were in the Country) but with directions to carry us to a certain Paſs, where not above two could ride at a time, near which they lined a Ditch on the right hand with a Company of Foot, on the other, behind a riſing ground, lay another Company, in the midſt againſt the Paſs they drew up a Trcop of Horſe with ſome Voluntiers; when they were perceived by us at a di<g ref="char:EOLhyphen"/>ſtance, we reſolved to put the beſt face on't that we could, and when we came up to the Spot, we drew up and ſhouted, which made the Voluntiers flinch back, and ſome run quite away. They made Propoſals of a Compo<g ref="char:EOLhyphen"/>ſition, which at ſirſt were refuſed, but upon ſecond thoughts, conſidering (our Horſes being ſo harraſſed) the beſt way was to fight on foot, and that when our ſhot ſhould be ſpent, the Rabble (who were at leaſt 2000) would be worſe upon us than thoſe of the Army. We agreed to the Conditions, which were theſe, That we ſhould deliver all our Horſes and Arms that were Muſterable, except thoſe that the Gentlemen among us then rid, and their Piſtols and Swords; and that our Servants ſhould have ſufficient Nags given them inſtead of theirs, and that they ſhould give us Paſſes, and pro<g ref="char:EOLhyphen"/>cure us Protections, and ſend us a Convoy, if deſired. The Grey Horſe was ſo beaten, that I was forced to alight, and lead him to the Front, where I was reſolved to appear, tho' on foot, but there were but few in the Com<g ref="char:EOLhyphen"/>pany that performed ſo well, till about half an hour before the Rabble fal<g ref="char:EOLhyphen"/>ling upon our Rere, (ſome of them being ſo beſotted for want of Reſt, that they fell off their Horſes) they ſhot one <hi>Morgan Williams</hi> in the Head, who lately was a Student in <hi>Dublin-Coliedge,</hi> whereupon Lieutenant <hi>Chinnery,</hi> my ſelf, and about half a dozen more of us faced about, and making at them, they run away, being at leſt 400 in Number, in which purſuit, the poor Grey, making what ſpeed he could in a ſtony place, came down on all Four with ſuch force, what with the weight of my Iron Doublet, Cap, and other Lumber, that I thought he had broken all his Bones as well as mine, but I ſoon ſcrambling up, gave him my helping hand, which was hardly ſufficient
+<pb n="32" facs="tcp:49292:17"/>to get him on his feet, for he was almoſt quite ſpoiled with it: When I have the ſame advantage of my Country-men (which I do not yet deſpair of) I'le return you as good or better Horſes than your own, with thanks in the mean time, the latter is all the Reward I can give you. That Night, for Convenience of Lodging, we went to <hi>Loghreagh,</hi> which was their Quar<g ref="char:EOLhyphen"/>ters, where we ſlept without Rocking. The next day, inſtead of a Convoy, they ſecured us with ſtrong Guards at the Gates, flattering us that they da<g ref="char:EOLhyphen"/>red not let us go till they knew the pleaſure of the Government, and that they would write by their Quarter-Maſter ſo favourably on our behalf, that they did not in the leaſt queſtion, but that our Conditions ſhould be performed to a tittle; but I ſoon ſmelt out their Treachery, which made me reſolve to venture on making my Eſcape while I had the Liberty of the Town, but my Friends often diſſwaded me from it, ſtill hoping the beſt, and judging it both hazardous and impoſſible to be done, for that the very Country-men, as well <hi>Iriſh</hi> as <hi>Engliſh,</hi> could not ſtir a Mile without Paſſes. The fourth day I could not brook the haughty looks of the Villains any longer, which made me reſolve to go on with my Deſign that Evening; but about half an hour before the appointed time, unexpectedly one <hi>Mahony,</hi> who is now a Captain in the Army, altogether a ſtranger to me, whiſpered me in the Ear, that he would carry me off to Sir <hi>Henry Waddington</hi>'s, who engaged him ſo to do, being formerly his Servant. I was glad to carry my Captain's Coat under my Arm, and lead his Horſes out of the Gate, which I looked on to be the beſt Employment that ever I had; but while I was at Sir <hi>Henry</hi>'s I had the Honour to paſs for the Captain's Couſin, and by his Name. I had ſeveral narrow eſcapes afterwards, which would be too tedi<g ref="char:EOLhyphen"/>ous to write. In three or four days after from Sir <hi>Henry</hi>'s I had the ſad Pro<g ref="char:EOLhyphen"/>ſpect of my Friends march towards <hi>Galloway</hi>-Goal, who, as I was credibly told, had ſevere Uſage, and were all Condemn'd to be Hanged and Quar<g ref="char:EOLhyphen"/>tered, but the late K. <hi>James</hi> Landing about that time, their Execution was deferred, but it proved no benefit to one <hi>Brown,</hi> a Gentleman of a 100 <abbr>
+                           <hi>l.</hi>
+                        </abbr> a Year near <hi>Moyallow;</hi> he was of our Company, but the laſt State-day we had, whether his Horſe tired, or he had a deſire to run all hazards with his Wife and ſix Children, which he left behind, making his way homeward, he was taken, and ſent to <hi>Lymerick,</hi> from thence to <hi>Cork,</hi> where the firſt Gracious Act the King did, was to ſee him Hanged and Quartered. How<g ref="char:EOLhyphen"/>ever at the Requeſt of ſome Friends he ſtrained his Conſcience to grant Sir <hi>Thomas</hi> and the reſt a Reprieve, which was ſent to <hi>Galloway</hi> by <hi>John Raines,</hi> a Merchant of <hi>Mayallow,</hi> who was employed by the Gentlemen to follow the King to <hi>Dublin,</hi> with Letters to their Friends to make Intereſt for their Pardons. He happily took <hi>Cloghstokin</hi> in his way, where I was preferred fortunately to his Service, and gravely carried his Cloak-bag behind me to <hi>Dublin.</hi> The <hi>Imbargo</hi> being taken off, the firſt fair Wind I ſet Sail, and juſt as I was ready to go, I met a Friend that told me Mr. <hi>Handcock</hi> was in Town, and that he deſired to ſee me, which immediately I made my bu<g ref="char:EOLhyphen"/>ſineſs, and finding him in his Chamber, was very civilly received by him, but we had not many words together, becauſe of other Friends that flocked
+<pb n="33" facs="tcp:49292:17"/>in, ſome with the News of freſh Loſſes in his Stock, which he gave a pa<g ref="char:EOLhyphen"/>tient Ear to, declaring, that he did not reckon upon any as his own. My time being ſhort, I told him, that I came juſt to kiſs his Hand, and that if I made any ſtay, I ſhould loſe my Paſſage. Then taking my leave, he went to the Stair-head, where he kindly preſſed two Guineas upon me, ſaying, <hi>That of a little I muſt take a little,</hi> for that he judged my hurry from home might hinder me from providing Money. 'Twas a ſeaſona<g ref="char:EOLhyphen"/>ble Kindneſs, and ſhall never be forgot, whilſt he lives, that is unfeign<g ref="char:EOLhyphen"/>edly</p>
+                     <closer>
+                        <signed>Your Affectionate Brother, <hi>T. W.</hi>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <list>
+                  <head>A LIST of thoſe Proteſtant Gentlemen that are Priſo<g ref="char:EOLhyphen"/>ners at <hi>Gallaway,</hi> and who entred their Plea <hi>(Non Cull)</hi> but afterwards withdrew the ſame, and ſubmitted to the Mercy of the late K. <hi>James;</hi> and were condemn'd accor<g ref="char:EOLhyphen"/>dingly, <hi>March.</hi> 18. 1688/9.</head>
+                  <item>SIR <hi>Thomas Southwell,</hi> Bar.</item>
+                  <item>
+                     <hi>Tho. Mylls.</hi>
+                  </item>
+                  <item>
+                     <hi>Tho. Ponſonby.</hi>
+                  </item>
+                  <item>
+                     <hi>John Ponſonby.</hi>
+                  </item>
+                  <item>
+                     <hi>William Gunn,</hi> Sen.</item>
+                  <item>
+                     <hi>Richard Gunn.</hi>
+                  </item>
+                  <item>
+                     <hi>William Gunn,</hi> Jun.</item>
+                  <item>
+                     <hi>John Blenerhaſſet.</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Foulkes.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Badham.</hi>
+                  </item>
+                  <item>
+                     <hi>Arthur Dillon.</hi>
+                  </item>
+                  <item>
+                     <hi>Bartholemew Gibbons.</hi>
+                  </item>
+                  <item>
+                     <hi>Stephen Palmes.</hi>
+                  </item>
+                  <item>
+                     <hi>John Morris.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Purdon.</hi>
+                  </item>
+                  <item>
+                     <hi>Jaſper Coxe.</hi>
+                  </item>
+                  <item>
+                     <hi>James Howard.</hi>
+                  </item>
+                  <item>
+                     <hi>Abraham Cokely.</hi>
+                  </item>
+                  <item>
+                     <hi>John Toppin.</hi>
+                  </item>
+                  <item>
+                     <hi>Caleb Cokely.</hi>
+                  </item>
+                  <item>
+                     <hi>Jonnthan Bowles.</hi>
+                  </item>
+                  <item>
+                     <hi>Abraham Mylls.</hi>
+                  </item>
+                  <item>
+                     <hi>John Watkins.</hi>
+                  </item>
+                  <item>
+                     <hi>John Wilkinſon.</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Conran.</hi>
+                  </item>
+                  <item>
+                     <hi>William Southwell.</hi>
+                  </item>
+                  <item>
+                     <hi>John Sandys.</hi>
+                  </item>
+                  <item>
+                     <hi>Edward Percivall.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Creed.</hi>
+                  </item>
+                  <item>
+                     <hi>Nicholas Eyres.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Buſted.</hi>
+                  </item>
+                  <item>
+                     <hi>Oliver Walſh.</hi>
+                  </item>
+                  <item>
+                     <hi>Tho. Salmon.</hi>
+                  </item>
+                  <item>
+                     <hi>Garret Foulks.</hi>
+                  </item>
+                  <item>
+                     <hi>Daniel Hood.</hi>
+                  </item>
+                  <item>
+                     <hi>John Chinery,</hi> Sen.</item>
+                  <item>
+                     <hi>Robert Bradley.</hi>
+                  </item>
+                  <item>
+                     <hi>Chriſtopher Ely.</hi>
+                  </item>
+                  <item>
+                     <hi>James Roberts.</hi>
+                  </item>
+                  <item>
+                     <hi>George Foulks.</hi>
+                  </item>
+                  <item>
+                     <hi>James Keating.</hi>
+                  </item>
+                  <item>
+                     <hi>Roger Atkins.</hi>
+                  </item>
+                  <item>
+                     <hi>Andrew Naſh.</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Toppin.</hi>
+                  </item>
+                  <item>
+                     <hi>Francis Wiſe.</hi>
+                  </item>
+                  <item>
+                     <hi>John Sanders,</hi> Sen.</item>
+                  <item>
+                     <hi>John Sanders,</hi> Jun.</item>
+                  <item>
+                     <hi>Robert Hern.</hi>
+                  </item>
+                  <pb n="34" facs="tcp:49292:18"/>
+                  <item>
+                     <hi>Edward Raymond.</hi>
+                  </item>
+                  <item>
+                     <hi>John Atkins.</hi>
+                  </item>
+                  <item>
+                     <hi>Benjamin Deacon.</hi>
+                  </item>
+                  <item>
+                     <hi>Nicholas Owens.</hi>
+                  </item>
+                  <item>
+                     <hi>John Benſon.</hi>
+                  </item>
+                  <item>
+                     <hi>Tho. Benſon.</hi>
+                  </item>
+                  <item>
+                     <hi>John Tedder.</hi>
+                  </item>
+                  <item>
+                     <hi>John Raynes.</hi>
+                  </item>
+                  <item>
+                     <hi>Aaron Stiff.</hi>
+                  </item>
+                  <item>
+                     <hi>John Threadway.</hi>
+                  </item>
+                  <item>
+                     <hi>John Butt.</hi>
+                  </item>
+                  <item>
+                     <hi>Bartholemew Purdon.</hi>
+                  </item>
+                  <item>
+                     <hi>Charles Norcutt.</hi>
+                  </item>
+                  <item>
+                     <hi>Tho. Fawkins.</hi>
+                  </item>
+                  <item>
+                     <hi>Stephen Catts.</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Frankinſon.</hi>
+                  </item>
+                  <item>
+                     <hi>James Balf.</hi>
+                  </item>
+                  <item>
+                     <hi>William Sanders.</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Conran.</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Waglin.</hi>
+                  </item>
+                  <item>
+                     <hi>John Maning.</hi>
+                  </item>
+                  <item>
+                     <hi>Edward Pomroy.</hi>
+                  </item>
+                  <item>
+                     <hi>James Cane.</hi>
+                  </item>
+                  <item>
+                     <hi>John Crow.</hi>
+                  </item>
+                  <item>
+                     <hi>John Green.</hi>
+                  </item>
+                  <item>
+                     <hi>Joſeph Mee.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Allen.</hi>
+                  </item>
+                  <item>
+                     <hi>George Allen.</hi>
+                  </item>
+                  <item>
+                     <hi>Joſeph Whiting.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Comins.</hi>
+                  </item>
+                  <item>
+                     <hi>Valentine Taylor.</hi>
+                  </item>
+                  <item>
+                     <hi>George Woodman.</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Pennall.</hi>
+                  </item>
+                  <item>
+                     <hi>John Sandford.</hi>
+                  </item>
+                  <item>
+                     <hi>Tho Collis.</hi>
+                  </item>
+                  <item>
+                     <hi>Chriſtopher Holmes.</hi>
+                  </item>
+                  <item>
+                     <hi>Chriſtopher Hilliard.</hi>
+                  </item>
+                  <item>
+                     <hi>James Huggins.</hi>
+                  </item>
+                  <item>
+                     <hi>William Walker.</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Summers.</hi>
+                  </item>
+                  <item>
+                     <hi>Nathan. Rowles.</hi>
+                  </item>
+                  <item>
+                     <hi>John Colvin.</hi>
+                  </item>
+                  <item>
+                     <hi>John Whitaker.</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Pheby.</hi>
+                  </item>
+                  <item>
+                     <hi>Edward Sanders.</hi>
+                  </item>
+                  <item>
+                     <hi>Peter Raynes.</hi>
+                  </item>
+                  <item>
+                     <hi>Joſeph Barnes.</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Chinnery.</hi>
+                  </item>
+                  <item>
+                     <hi>Nicholas Chinnery.</hi>
+                  </item>
+                  <item>
+                     <hi>Walter Roſs.</hi>
+                  </item>
+                  <item>
+                     <hi>John Salmon.</hi>
+                  </item>
+                  <item>
+                     <hi>William Salmon.</hi>
+                  </item>
+                  <item>
+                     <hi>William Doe.</hi>
+                  </item>
+                  <item>
+                     <hi>George Ridly.</hi>
+                  </item>
+                  <item>
+                     <hi>John George.</hi>
+                  </item>
+                  <item>
+                     <hi>Roger Long.</hi>
+                  </item>
+                  <item>
+                     <hi>Tho. Lachford.</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Choppin.</hi>
+                  </item>
+                  <item>
+                     <hi>Tho. Williams.</hi>
+                  </item>
+                  <item>
+                     <hi>Hugh Lawſon.</hi>
+                  </item>
+                  <item>
+                     <hi>Matthew Choppin.</hi>
+                  </item>
+                  <item>
+                     <hi>Matthew Couch.</hi>
+                  </item>
+                  <item>
+                     <hi>John Brooks.</hi>
+                  </item>
+                  <item>
+                     <hi>David Fitzgerald.</hi>
+                  </item>
+                  <item>
+                     <hi>Tho. Blenerhaſſet.</hi>
+                  </item>
+                  <item>
+                     <hi>Luke Thomas.</hi>
+                  </item>
+                  <item>
+                     <hi>John Smith.</hi>
+                  </item>
+                  <item>
+                     <hi>Nicholas Conner.</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Pope.</hi>
+                  </item>
+                  <item>
+                     <hi>John Laundy.</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Robinſon.</hi>
+                  </item>
+                  <item>
+                     <hi>Michael Daly.</hi>
+                  </item>
+                  <item>
+                     <hi>Henry Parr.</hi>
+                  </item>
+                  <item>
+                     <hi>John Frith.</hi>
+                  </item>
+                  <item>
+                     <hi>John Bagnor.</hi>
+                  </item>
+                  <item>
+                     <hi>Edward Oliver.</hi>
+                  </item>
+                  <item>
+                     <hi>Chiſtopher Oliver.</hi>
+                  </item>
+                  <item>
+                     <hi>Joſeph Watkins.</hi>
+                  </item>
+                  <pb n="35" facs="tcp:49292:18"/>
+                  <item>
+                     <hi>William Howes.</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Simmons.</hi>
+                  </item>
+                  <item>
+                     <hi>Daniel Doer.</hi>
+                  </item>
+                  <item>
+                     <hi>John Hooper.</hi>
+                  </item>
+                  <item>
+                     <hi>John Collyer.</hi>
+                  </item>
+                  <item>
+                     <hi>Henry Portway.</hi>
+                  </item>
+                  <item>
+                     <hi>William Gibſon.</hi>
+                  </item>
+                  <item>
+                     <hi>Peter Bayly.</hi>
+                  </item>
+                  <item>
+                     <hi>Matthew Thompſon.</hi>
+                  </item>
+                  <item>
+                     <hi>George Hall.</hi>
+                  </item>
+                  <item>
+                     <hi>Henry Thomas.</hi>
+                  </item>
+                  <item>
+                     <hi>John Thomas.</hi>
+                  </item>
+                  <item>
+                     <hi>William Ally.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Caſey.</hi>
+                  </item>
+                  <item>
+                     <hi>William Uppington.</hi>
+                  </item>
+                  <item>
+                     <hi>John Fowler.</hi>
+                  </item>
+                  <item>
+                     <hi>George Harding.</hi>
+                  </item>
+                  <item>
+                     <hi>Phillip Burke.</hi>
+                  </item>
+                  <item>
+                     <hi>William Williamſon.</hi>
+                  </item>
+                  <item>
+                     <hi>William Gee.</hi>
+                  </item>
+                  <item>
+                     <hi>John White.</hi>
+                  </item>
+                  <item>
+                     <hi>John Norcott.</hi>
+                  </item>
+                  <item>
+                     <hi>Bartholemew Horne.</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Leven.</hi>
+                  </item>
+                  <item>
+                     <hi>George Bryan.</hi>
+                  </item>
+                  <item>
+                     <hi>Symon Griſſith.</hi>
+                  </item>
+                  <item>
+                     <hi>James Graham.</hi>
+                  </item>
+                  <item>
+                     <hi>William Atkins.</hi>
+                  </item>
+                  <item>
+                     <hi>William Armor.</hi>
+                  </item>
+                  <item>
+                     <hi>John Flynn.</hi>
+                  </item>
+                  <item>
+                     <hi>William Sanders.</hi>
+                  </item>
+                  <item>
+                     <hi>Phillip Whittington.</hi>
+                  </item>
+                  <item>
+                     <hi>Charles Daly.</hi>
+                  </item>
+                  <item>
+                     <hi>Tho. Curtiſs.</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Curtiſs.</hi>
+                  </item>
+                  <item>
+                     <hi>William Coxe.</hi>
+                  </item>
+                  <item>
+                     <hi>Hugh Whitlock.</hi>
+                  </item>
+                  <item>
+                     <hi>Francis Barnet.</hi>
+                  </item>
+                  <item>
+                     <hi>Tho. Raynes.</hi>
+                  </item>
+                  <item>
+                     <hi>William Victory.</hi>
+                  </item>
+                  <item>
+                     <hi>Henry Perry.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Gibbs.</hi>
+                  </item>
+                  <item>
+                     <hi>Samuel Carter.</hi>
+                  </item>
+                  <item>
+                     <hi>Ralph Emerſon.</hi>
+                  </item>
+                  <item>
+                     <hi>William Frye.</hi>
+                  </item>
+                  <item>
+                     <hi>Bennet Beaſly.</hi>
+                  </item>
+                  <item>
+                     <hi>George Lane.</hi>
+                  </item>
+                  <item>
+                     <hi>John Ettris.</hi>
+                  </item>
+                  <item>
+                     <hi>John Hull.</hi>
+                  </item>
+                  <item>
+                     <hi>Tho. Thompkins.</hi>
+                  </item>
+                  <item>
+                     <hi>Nathaniel Daniel.</hi>
+                  </item>
+                  <item>
+                     <hi>William Cask.</hi>
+                  </item>
+                  <item>
+                     <hi>John Lewis.</hi>
+                  </item>
+                  <item>
+                     <hi>William Rice.</hi>
+                  </item>
+                  <item>
+                     <hi>Tho. Stringer.</hi>
+                  </item>
+                  <item>
+                     <hi>Phillip Teckly.</hi>
+                  </item>
+                  <item>
+                     <hi>William Sawyer.</hi>
+                  </item>
+                  <item>
+                     <hi>Daniel Kelahar.</hi>
+                  </item>
+                  <item>
+                     <hi>Tho. Lane.</hi>
+                  </item>
+                  <item>
+                     <hi>John Backhouſe.</hi>
+                  </item>
+                  <item>
+                     <hi>Tho. Andrews.</hi>
+                  </item>
+                  <item>
+                     <hi>Hugh Caly.</hi>
+                  </item>
+                  <item>
+                     <hi>Anthony Mackcoagh.</hi>
+                  </item>
+                  <item>
+                     <hi>Joſeph Allen.</hi>
+                  </item>
+                  <item>
+                     <hi>Tho. Caſy.</hi>
+                  </item>
+                  <item>
+                     <hi>Nicholas Purdon.</hi>
+                  </item>
+                  <item>
+                     <hi>Joſeph Purdon.</hi>
+                  </item>
+                  <item>
+                     <hi>Katherine Gunn.</hi>
+                  </item>
+                  <item>
+                     <hi>Tho. Moor.</hi>
+                  </item>
+                  <item>
+                     <hi>Joſeph Martyn.</hi>
+                  </item>
+                  <item>
+                     <hi>John Morgan.</hi>
+                  </item>
+                  <item>
+                     <hi>Tho. Warner.</hi>
+                  </item>
+               </list>
+               <p>
+                  <pb n="36" facs="tcp:49292:19"/> The Four laſt named Perſons eſcaped; and Mrs. <hi>Katherine Guna</hi> (Wife to <hi>William Guun,</hi> Junior; and Daughter to Collonel <hi>Townfeed</hi>) was Acquit<g ref="char:EOLhyphen"/>ted, becauſe ſhe accompanied her Husband, (tho' mounted and armed as the reſt of the Party were). And when the Enemy appeared ſo nume<g ref="char:EOLhyphen"/>rous, Captain <hi>Mylls</hi> telling them: <hi>Gentlemen, We have the Sw<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rd before, and the Gallows behind:</hi> She couragiouſly ſeconded him; giving her Ad<g ref="char:EOLhyphen"/>vice, Rather to Fight, and Die honourably, than to ſubmit to the Mercy of their perfidious Enemy: For ſhe had reſolved when ſhe came abroad with her Husband, to undergo the greateſt Hardſhips and Dangers they ſhould meet with, then ſtay at home, and be ſubject to the inſolent Abuſes of the unmerciful <hi>Iriſh</hi> Souldiers. Some whereof coming to the Houſe of a Gen<g ref="char:EOLhyphen"/>tleman, one Mr. <hi>Burdet,</hi> his Wife great with Child, eſpying them, endea<g ref="char:EOLhyphen"/>voured to ſhut the Door, they forced in upon her, and with their Piſtols ſhot her dead.</p>
+               <p>Sir <hi>Thomas,</hi> and all the other Gentlemen were Condemn'd to be Hang'd and Quartered: The Judge perſwading them to rely on the Mercy of ſo Gracious a Prince; for he did not in the leaſt doubt of their Pardon; a Reprieve being already ſent them, before their Tryal, perſwaded them to comply with it. But to this day they remain under the Sentence of Con<g ref="char:EOLhyphen"/>demnation, upon a further Reprieve obtained by their Friends application to the late King, and promiſe to get the like number of Papiſt Priſoners ſent over from <hi>England,</hi> in exchange for them.</p>
+               <p>At <hi>Birr,</hi> in the King's County, three Proteſtants condemn'd to die, <hi>viz.</hi>
+                  <list>
+                     <item>Sir <hi>Lawrence Parſons,</hi> Kt.</item>
+                     <item>
+                        <hi>Johnathan Darby,</hi> Gent.</item>
+                     <item>
+                        <hi>Jam's Raſcot,</hi> Gent,</item>
+                  </list> The Articles that were given to Sir <hi>Lawrence Parſors,</hi> upon the Surrender of his own Houſe, were brought in againſt him at his Tryal, and was the only Evidence whereby they condemned him, there being no other Evidence but thoſe Articles; the Judge declaring it was High-Treaſon to Article with the King.</p>
+               <p>At <hi>M<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>riburough,</hi> in the Queen's County, eleven Proteſtants were con<g ref="char:EOLhyphen"/>demn'd; two of which were executed, <hi>(viz.) Th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mas Lewis,</hi> and <hi>George Maxwell,</hi> being ha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ged and quartered: Two have ſince made their Eſcape, <hi>(viz.) John Lewis,</hi> and — <hi>Flaharty;</hi> and are ſaid to be gotten for <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. Two Brothers of the <hi>Lindſeys,</hi> and ſome others, died in Priſon.</p>
+               <p>After the above-mentioned Eleven were condem<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed, Baron <hi>Lynch</hi> being informed by ſome Perſon, that the Priſoners ſhould ſay, <hi>They durst not put them to Death,</hi> (<hi>if they did, the Prince of</hi> Orange <hi>would reveage-their Blood</hi>) he order'd them to be brought into Court in their Irons, with Ropes about their Necks; and examined the Jaylor, whether he did not hear them ſay ſo: he ſaid, He had not heard them ſay ſo, ſince their Condemnation: the Sheriff taking up the Bible, kiſſed it, and ſaid, My Lord, by the Oath I have taken, I heard them ſay ſo laſt Night. Upon which <hi>Iynch</hi> ordered their Execution the day following. But their Friends, with others, cryed out Mercy: So <hi>Lewis</hi> and <hi>Maxwel</hi> only were executed. Mr. <hi>James</hi> the Miniſter, and the other ſix are Repriev'd for ſome time.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:49292:19"/>
+         </div>
+      </body>
+   </text>
+</TEI>
